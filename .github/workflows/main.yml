@@ -14,7 +14,7 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: Asia/Beijing
+          config_timezone: Canada/Eastern
           base: header, activity, community, repositories, metadata
           plugin_isocalendar: yes
           plugin_languages: yes
