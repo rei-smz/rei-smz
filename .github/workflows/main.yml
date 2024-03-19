@@ -31,6 +31,10 @@ jobs:
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, characters
           plugin_anilist_user: rinshimizu
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "76561198138746288"
+          plugin_steam_sections: player, recently-played, most-played
           output_action: commit
           committer_branch: metrics-renders
           committer_message: "chore: update metrics"
