@@ -9,13 +9,17 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Canada/Eastern
+          template: classic
           base: header, activity, community, repositories, metadata
+          config_display: columns
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_habits: yes
