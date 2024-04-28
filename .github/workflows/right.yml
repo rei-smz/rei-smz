@@ -19,6 +19,7 @@ jobs:
           config_timezone: Canada/Eastern
           template: classic
           # base: header, activity, community, repositories, metadata
+          base: ""
           config_display: regular
           plugin_achievements: yes
           plugin_achievements_display: detailed
