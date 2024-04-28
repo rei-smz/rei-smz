@@ -14,16 +14,16 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
+          filename: metrics-left.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Canada/Eastern
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: columns
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
+          config_display: regular
+          # plugin_achievements: yes
+          # plugin_achievements_display: detailed
+          # plugin_achievements_secrets: yes
+          # plugin_achievements_threshold: C
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
@@ -48,17 +48,17 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_leetcode: yes
-          plugin_leetcode_user: rei-smz
-          plugin_leetcode_sections: solved, skills, recent
+          # plugin_leetcode: yes
+          # plugin_leetcode_user: rei-smz
+          # plugin_leetcode_sections: solved, skills, recent
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, characters
           plugin_anilist_user: rinshimizu
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam: yes
-          plugin_steam_user: "76561198138746288"
-          plugin_steam_sections: player, recently-played, most-played
+          # plugin_steam: yes
+          # plugin_steam_user: "76561198138746288"
+          # plugin_steam_sections: player, recently-played, most-played
           output_action: commit
           committer_branch: metrics-renders
           committer_message: "chore: update metrics"
