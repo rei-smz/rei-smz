@@ -153,7 +153,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.2067077344284742 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.2915811088295683 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -527,7 +527,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.32m out of 213m repositories</span>
+                                    <span class="gh">ranked 5.32m out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -734,15 +734,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAgMGBwEEBQD/xAAvEAABAwMDAgYBAgcAAAAAAAABAAIDBAUREiExBlEHEyJBUmEjFTMWFyQlMmJx/8QAGwEAAgIDAQAAAAAAAAAAAAAAAwQBBQACBgf/xAAoEQACAQQBAgQHAAAAAAAAAAABAgADBBEhBRIxEyJBYSNRcaHB0eH/2gAMAwEAAhEDEQA/ANyGKMxDY8rJgjydis05/EOOUZO64YAz1oAYiTDH2KEwx/aaShJ+wjopkhREmGP7QGGPsU4lLJTSKZIURflR44KXJHGGO5TnO4SZz+NyaRDmZgCb1O4eSAM8oydjtp+yhomh7AC9rRnkrsU9lgqNxdICfjgqtp0ix1BNWSmMsfsYNhsFdfH/ANIwmLgyY2ClX8rK4tGLlAM8jQVJbDJVUtHFT25kZa0DOG8ldU1N7B/YBHbSruhZ0gvmBJnK3fMXfiHwmCj3/sgh8Kq/I/ulNt/oVh3hTXatrpT47aCphR3q6Vs0jaeDWxmxdj37LFLebrU1c9PBCHujGdYG2eyYW3oegMCeS5IZy66+n6kNd4T13H6pTgdtBUP6x6e/h2TyJK+GpmIzoYMFv2VOuseurpbJnUMRibU6cuy3gFVVcKmWqdLNUvMkknOTuFJSmNKJe8Yb+r8W5cdPoABubUDsR6Rz7BXF4a9LMoqF1bXxNM84/wAXjOB7FVb0vNRwV0U9wbqgidqLfl9KxKjxTpIw2Okt04AGlri4YVdZLTQ9bmB5gXVZBb2y6Pc/idjq+Cha+GijfJFPO7BdG/T5Y7levfU1utdpioaW4sM7h5fmFxOg9yqgvd4qrrcpayolcHu2AacYC5kjnPDTI7Uc7Z902K+yVHeaUeB6kQVnzjePeW9U9aWu1WSSntUokqy3OsHbUeSuLD4i09utRp7bRSipflzpnkEBx5P/ABVucD1D39+yBzsYxt9Iq1HaOpwdqo8wLZOd+pjq6qkrKqSeZ5fI8lxcStScjyyjJ5SZf2iSjIktwuBgToQEGEbe6I7JMb2NiHqHK86Vm/rCqETc1GAO8IkoSSlmVndAZWd02lObAiGSgJ+kJlZ8ggMrPkE2iSQR84R9tkuY/jdsvea35BLfIwsd6gmlWYSMT//Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAABwIEBQYAAQgD/8QAMhAAAQMDAgQDBwMFAAAAAAAAAQIDBAAFEQYhBxITMRQVQSMyUWFxgZEIIlI3cnShsf/EABkBAAMBAQEAAAAAAAAAAAAAAAADBAIBBf/EACsRAAEEAQIDBgcAAAAAAAAAAAEAAgMEESIxEyFBBTJhcYHREiMzUXKhwf/aAAwDAQACEQMRAD8A5266r9OcXMTulIxy7U48mjYGQrA+dVoqLaj01KH0NTtjuaU9KIpCypaveUc0ITnyaN/Ff5rPJY38V/mpkpANJOAex/BoQojyaLzJSObA3714TrXHZhvOtcxUkfGp7mTjYHP9ppKuQpwUkpPf9poQqGFqTgDanNsmuwpiHmscwPqK99RpQi5KS0nlSEjbGKjk4yMbUIT62y2obyy+11goYxVotrrUuOJCGUNb4GQM1SV9/jU7YIDzgakpew2lW6M0IVj5t8pz+K6V4B2+DI4dsuyYUZ5xUhwczjYUfyai+GOnWtRcFpEMIiomSXHG0SVNglG/fPepZOmJmjuDF1tC5yXJKUKWJDWU4yR2qOV/E+WN8qmNvDBkdtjKIRtFsxtbIX16Kazyi1jA8tg/P2KapnAwPjh8z4uQ4+71lguOKKj/ALqtap8YOPtpCJjyYuG8tBZCFbfDtSRA8yOZ1Gf0mG3EI2ynZ2MeqC36oWGY3FeS3GZbZb8KyeVtISOx9BQnT7wou/qq/q7K/wAVn/hoRJ94VdF3ApZO+VpfelJdcQMIcWkfAHFJX3rRpiwiLwk1a9ZNUWdLjktyM2/zKaS6QlWflXVlm19Cv95i2tNvdHi3OnlwgpH1FcccM4CrrryxwW3EtLekBIWrcDY10YqOrQuvYSpihLERQePS2yDVtSpVtBzZPqYOBkjp7pE1ieHBbyb1RN1PqSHpOa7A8AVpabDvsQEpOflVZVxLtK3kyF2VZdHZSgkrH3qta71VH1LdXZceM6ylbYb5Vnfb1oVai1jHsV0MN2G66tKQrmChjem1uyYIoy+40jnjc/xUX7odwm0jnTq/LPir9rfhfN4tXxzVVuuMa3x3UJYDMhJUrKPXIoTcUeFk7h7EgPzbjFmCW4WwlkEFOBnJq1Oca4Z4a3HTUe2zGZslKgiWh0ANknvtvQak3CZMCUzJciQE+6HXCvH0zXlvZ8MrhGdAPLy6LQcDGC4ajv5posDmrR9M9qd3GC/CkdOS2UkimmCO4NaWFJWG4eU3mHPAX7BfPhBwr7Gi+1qlNx09IvriHlBrIUhxfMo4+dBHB7Y+1TMWWlGn3IxfIJJ9mD3q6pddWyMZ90ieAS4JRRhajZk6ZevQYWlpokFrm3OKFuq7ui+3lc1tpTSCgJ5VHJ2pUWWluwvx+sUFWfZk96hADsMd67avvsNDD6+J+65DWbE4uCT6nFYn3hWYPoDXvDiuypCGmEFSyagVC//Z" alt="" />
                             <div class="about">
-                                <div class="name">Forza Horizon 4</div>
+                                <div class="name">Phoenix Wright: Ace Attorney Trilogy</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Racing
+                                        Adventure
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -750,7 +750,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        68 hours played
+                                        41 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -758,7 +758,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 26 Jul 2024
+                                        Last played on 27 Jul 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -767,32 +767,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            64 / 178 achievements unlocked
+                                            13 / 30 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAQIH/8QAKhAAAQQBAwIFBAMAAAAAAAAAAQIDBBEFAAYSITEiQVFhcRMUkdEjM4H/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQC/8QAJBEAAQMCBAcAAAAAAAAAAAAAAQACAwQREiFBURMiMYGh4fD/2gAMAwEAAhEDEQA/AICZjc7kW0OogLDXEpHQjofbvo7DbQy8fCLWuIiK3yJU688lKnD6JST+tWk97I5FuSNhW5JADUiRJShtTSlHl/GVGgKsdOvX20jj7A3GzKEvMSwuTYXxRb6yPS1Un8mtQ8aK2N7wAtGMjJoQWNjYT6QWp97ITh0Dcq0ISB3Fi+3pf+a0nRJU1SguUhqJdpYjghKfbpWun4HCYvDzVr+2YdaUOVyfEsuGrIQPAn4F2et6Ub9Uw4zzQyyVlVqcQeCkpAqgkd7Jsn21GKunfLhaeuv26eGODbEKJTkJu2801NQ4g4113gRR5NKJ5IJ8qCro+XLTt/eLrDMl9LyXn3lAoQ6vggKrsOI6XV/PzpdJYamQno0lPJp1PFX71DTtqLZv6DqnmvTkQa+Ox02SkbUcrnWG2hRcszAunea3buGSE8sjisS0R4iHAtxJ86rkfxWpmTmW0MvJhypk+e+gNPTHrQniCTSQevn39tBOYpLCv6gD61rKGQO41VFQxRiwA7C3vylGRxX/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYAAgQD/8QALRAAAgEDAgUCBgIDAAAAAAAAAQIDBAURABIGEyExQVFhIiMyQpGhFIGxwfH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwX/xAAYEQEBAQEBAAAAAAAAAAAAAAABAAIRMf/aAAwDAQACEQMRAD8ApLPBDvDwzTfN2gxdifTPvohYLy1zRzSK22CTlSxMMPH0z19vfUrAkwniqJGMQBURocKwbHQjvuBzjGgtpgqbXX19ZW8ujidfuz8xUOFYHySD+dZGfZ7FLytyvNzqrdablX0KQUnPJoUYvNJn4UbaQQD2z2zgdzrtwtdOJzbjY7pLcYVEq7Za/KT8th2f7lXyATk9fGlPhGvrKriup4gSd4KWBuWcY2v92Dk/Su0N/Wt924pqrPc7k1zbn1VfItbUHOZYt4AWMgrjIQJ0GMZxpeDRS0HI7UIYmWR0dlxtJUDII6/v/Wl/jShqrnbqOOjdUXBdg77SRj/unCEJJFJz2DIveP8Af50s36ohFtqqymZ/4SIUVj9UzdRhfQE9M9zg49dFBESp3vsi2rjKvtvDNZaIVhWObGJAOqdcHA8+evvrMlNXcQxV92qZXMyYKN1zK2csc9yfOdAtjNGVxtYkKFIxjz/k6bBduTw5Q00DtCHiZZsJgv8AEcBfXPqNOKSt/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>A Summer in Pole Position</div>
-                                                <div class="unlocked">25 Jul 2024</div>
+                                                <div>Turnabout Memories</div>
+                                                <div class="unlocked">23 Jul 2024</div>
                                             </div>
-                                            <div class="description">Win all Seasonal Championships in one Summer season.</div>
+                                            <div class="description">Clear Ep. 1 of PW: AA - T&amp;T.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAHAAAAQMFAAAAAAAAAAAAAAAAAwUGBwABAgQI/8QAKRAAAQMDAwMEAgMAAAAAAAAAAQIDBAARIQUxQRITIgYHUYEVYXGR8P/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBQT/xAAdEQEAAgICAwAAAAAAAAAAAAABAAMCIRESEzFB/9oADAMBAAIRAxEAPwCXEs5o6WE3G5+qznTIOnRy/OlMR2gL9TiwP6+aiX137rsNx3o+jokNgEDvKSUFQ+Rzb/YrdlaGlk/Gpd8SXUNAEDAJ2HJoq4aH2y26gLQrdJ5rlCN6x1Y6o3LStpbZT20kqJcQb3v8WzsLU8mPcfVZz/4yXJdUHL2Wg2FxghXObcYzsKVneArH4UpkA7iRqGtp0/VOvUHmmo6GrIW/52OPFtPzvnYfdMH1Pq35l0Lg6fLfsoq77qinqB4twMY2rblRRLWDLSHlg46rqI+6Mlu3ikcW6RgVL138n2UtuPQ9RE0JyQ444HWWYqEYsEKUrqznff7tTj0vSYkaYxJRqkxZQoKUXWx5i2QQNjf9mqbbSkdTo22q8Z/urJKFHPjcWA/ihbc8ahrpOdz/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwL/xAAqEAABBAEDAwIGAwAAAAAAAAABAgMEEQUAEiEGEzFBUSMyQmGB8SJxkf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBv/EACARAAAGAgIDAAAAAAAAAAAAAAABAgMREgQhBWFx0fD/2gAMAwEAAhEDEQA/ALbHPh/HhSSFKZPp6j9HUH1gnLTc+7isY60GkMpeSFK2FF8XY83ur+tO2Oo2m4zj7QQHVJCyk0lJSFbaA9VXfOuXHcW9msfk0NF55tfYebJLYWiitN+/yUNO/JoOoVuLFIAmdjDkwsvEBmNoSh+MFdxveoClN2L2mwR/nppR0/MnZB6cyQ6RFc2jk7h9iL8itXvUPSsGdkcAtTyYpS0EpaJKnHfiDZuBN7EoKjZ9wBqaw2OVgZeZh5J+5ImLUXV/wLqCLSvnmiD4971JiqsoK4moVCFElvJTYS5u3BTZ8+tUDpvEhQcXk2USXJUve43Xb2tilJWDyeLAJ4/PpRIj9MRe9tVl8sgpF13kc+1fD/XjWdP5t1l/JyW5z0ksyBHhd4JUte0fMaApPnivq/IrcOpCeNSNLyvVMbE9GuZSFFixMiiQ0I7ZcS4XDuVyOdykpSBYPNlRNXrH3erc1Ly0jJy5778l+krLh8geAB9IFmgKrQWSzuQykONElPBTTClrbCRWwKoV96AAF8gep0oecA+GngcA6NOikarj8Bttiz6ZNXxF778D/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>It's a Trap!</div>
-                                                <div class="unlocked">24 Jul 2024</div>
+                                                <div>Farewell, My Turnabout</div>
+                                                <div class="unlocked">23 Jul 2024</div>
                                             </div>
-                                            <div class="description">Get 3 Stars on every Speed Trap on Fortune Island.</div>
+                                            <div class="description">Clear Ep. 4 of PW: AA - JFA.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+62 others...</div>
+                                            <div class="description ellipsis">+11 others...</div>
                                         </div>
                                     </div>
                                 </div>
