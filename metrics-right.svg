@@ -153,7 +153,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.0848733744010941 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.1697467488021882 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -527,7 +527,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.33m out of 210m repositories</span>
+                                    <span class="gh">ranked 5.33m out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -750,7 +750,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        76 hours played
+                                        81 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -758,7 +758,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 1 Aug 2024
+                                        Last played on 2 Aug 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -767,32 +767,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            68 / 178 achievements unlocked
+                                            70 / 178 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAABAUGBwED/8QAKRAAAQQBBAEDAwUAAAAAAAAAAQIDBBEFABIhMQZBUWEHInETFYHR4f/EABYBAQEBAAAAAAAAAAAAAAAAAAIEA//EACIRAAEEAgIBBQAAAAAAAAAAAAIAAQMRBSEEEoETFGHB4f/aAAwDAQACEQMRAD8A0V0uvUkoUFKPArvQ5YatLf6jIeKSsNKWAs139vfGpr6rZedjMtBhTJLkWE+gu7ou5C3RurbuB9OOLHZOjsP4vEi4tbWYU0GS82/HdSol4kAH719k/wAnjW/JycXFG5H6/akhx5zvQ7T7FT4UqU/DizEOOMJC3ADSQD631+dEZvyLG4qO4HZTLklDe5EdKwSR/Ws587ThfF8G9lWsW++qUTHtcg2pKrIJAIAFj2JGo6HnsQhOLcKFBUoAbn0FVIFj7T1wRXOoQynuhuEfPyqjx7waN/CUfUqfkP3BqZNyDssb+13t+doNUK+PTTTMedZVHjEOM2uVHyTSkockFQDYSnoBNckprn41zyLEN5+IhmQtbYQq9yO69RoDyHBBzxoxIYffmodStpxxwEFNUoKv8Cq+eNCaGLkOPqjdPbLcCOJn6PVrzT5tFkYjKCfBafmTHbKXgXAlJu9qjdcgcUKFd6jpmRmZSUysIKUNmkoSLAT7D/NP8V4e4GUia5vPZQnhN+599VEDDsRwAECh7DRCGKInIW3+VpN5ZDHo76X/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwH/xAApEAACAQMDAwQCAwEAAAAAAAABAgMEBREAITEGEkETFFFhInEVMnKB/8QAFwEBAQEBAAAAAAAAAAAAAAAABAIABf/EACMRAAIDAAEBCQAAAAAAAAAAAAECAAMRIQQSEzEyUYGRwfD/2gAMAwEAAhEDEQA/AIQ11wMrTiGCVinbGvqf0Oedx9fWi0vE1wv0Sw08kUojy6EAFlwe8Icn45504SxwtgOzHHwANZz9NQVruUqkWGJWZ1yO/uXkLx+XHnOjVNYD4bst66yOOIZYEEvUEns6RRBG6urVNUWIbwMecjO4zqi60juN1sskUsdOgDq6qZChyDzvvgZ/X/dJOnIfY0MjUlCpqICGinqAGlkYcZY4Cj/Px51y79Z3K7UYkFQaYOvpyxqygxjOGycc5HO3Omv1KVr2XU+2QLdLYGDD7mpq6SnpJqmqqBCkYUgBCzNk4OB9c6FoeoDXUNTF05ZqmqMYaUzzHbs3LE+Bvprf+h6yst0cVLdbfbAkIHqSAszyec+MHA/XxqNoLNHa6OVb9eqG5XOSQqcSS1CImBsIwUQ+cliRxtoSOpGideu5qgO74Prm/EW37qJ62ejnmu1NRVMCmEQxSZYHwdud/OwxnnOmHRF19C9Q0HUoR/eCSMyunq5KqCMhfyG5GPnOkNTbLCkKwL/IVsUbmQRyusUeSd9kH38nRdFdZLcSbLR01uOMd8KZc/t2JbWsCuuSXud/Mf27P//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The World's Least Obedient Racing Driver</div>
-                                                <div class="unlocked">1 Aug 2024</div>
+                                                <div>Antique Restorer</div>
+                                                <div class="unlocked">2 Aug 2024</div>
                                             </div>
-                                            <div class="description">Complete seven chapters of "The Top Gear Horizon Special".</div>
+                                            <div class="description">Find and restore 15 Barn Finds.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAwUGBwECBP/EACsQAAIBAgQDCAMBAAAAAAAAAAECAwQRAAUSMSFBcQYTIiMyUWHRBxShsf/EABcBAQEBAQAAAAAAAAAAAAAAAAUEAQL/xAAgEQABBQACAgMAAAAAAAAAAAABAAIDBBESIiExQVGB/9oADAMBAAIRAxEAPwBrmM+mM2wopIxU1B8qWYjkq8MCzvPaCkur6nl03CDxMR722A+TYYjNL2xqh5lE0SX9K8WI62IA35X64SsTtY3yUdUrOe7AFZNHVSwoI3hSJb8O8UYI9Wl/WXPsvAYjE9Jm1RkZzmprDFDoMrBVv4QTc9OGEsvaWeHLv2aWWGemKAqqqQzG+5PLpbA7L9eUkA/OfqadRnjG5qrOvkIklaed3eQ65nkb1Nfb5sNsLRm8dM/ks8ljsotjfMhT1VR3r96WAtpXn9Y4aXLXeRtGsjexOw+TsMbx5DsuORa7orFpfyDUydi2ytKicyGF6cU604YlTsCxO3HkMRKrzOadBHAHihYAtGSRZ+f9GAxhYE0IdZO9rhftv8xlY2Y3OJo60URJaPZ1UOsSSAb9Yv/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcEBQADCP/EAC4QAAIBAwIEBAQHAAAAAAAAAAECAwAEEQUSBhMhMQciQXFRYaHhQlJigZHR8P/EABYBAQEBAAAAAAAAAAAAAAAAAAMBBP/EAB8RAAIDAAEFAQAAAAAAAAAAAAECAAMhBBESIiMxcf/aAAwDAQACEQMRAD8A6dFmjsGcEAHIHqKlIixoAoCqPQVDu9WsbWRo5biPnKMmMHLD9vSlh4kcXxzJJZW186q3QxwYJI+ZoT2JpjJXZbiiGOtcV6HZXXKkvYpLgttwh3Kh/UR0Htmk9xl4jtc6jJZadzUZR1kMZ8o+Z7Ln4Cg/VNas7XTZmnmMUKllijDeZ3x0JPqM/DvS3uNUk57SmVmjOJGUv0bb9jig6hmyajSa18jojH1fjezS2ijjvw7lA0qwyb2kkPViSOufegbVOLbidXWzjEcZ7u5/w+taeOIbSXX520qPbKz7pnKgruwOij7dyahWXCmpX7BzbzyZ/HL5V+tVa6yA7yNybR668/PsqGvOfO8tzLNdTYwFCjb7ZPYewrEglmYNJtiQdo07Cjux4EdADeXKRj8kK5P8mrSPQtPsxmODew7NIdx/qq3IrGLCFFja0//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Horizon Superstar</div>
+                                                <div>Picture Perfect</div>
                                                 <div class="unlocked">1 Aug 2024</div>
                                             </div>
-                                            <div class="description">Gain Superstar Status by reaching Level 200.</div>
+                                            <div class="description">Take photos of 200 different cars for Horizon Promo.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+66 others...</div>
+                                            <div class="description ellipsis">+68 others...</div>
                                         </div>
                                     </div>
                                 </div>
