@@ -19,36 +19,36 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.161987041036717 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.1568567026194145 329"/>
                                     <text x="60" y="50" dominant-baseline="central">41</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3241</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3245</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.651533742331289 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.644607843137256 329"/>
                                     <text x="60" y="50" dominant-baseline="central">14</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/815</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/816</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.252643948296122 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.250146799765121 329"/>
                                     <text x="60" y="50" dominant-baseline="central">22</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1702</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1703</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.272099447513812 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.265840220385675 329"/>
                                     <text x="60" y="50" dominant-baseline="central">5</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/724</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/726</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -153,7 +153,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.2546201232032823 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.3394934976043764 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -527,7 +527,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.33m out of 210m repositories</span>
+                                    <span class="gh">ranked 5.33m out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -750,7 +750,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        82 hours played
+                                        85 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -758,7 +758,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 3 Aug 2024
+                                        Last played on 4 Aug 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -767,32 +767,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            71 / 178 achievements unlocked
+                                            75 / 178 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUHBgT/xAAsEAABAwMDAwIFBQAAAAAAAAABAgMEAAURBhIhEzFRFEEHI0JhcSRSgYKR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQACAgMBAAAAAAAAAAAAAAABAgASAxEhMf/aAAwDAQACEQMRAD8AuMWOEAFXc+3vRyMK9k/isRL+I1mSCmN6l9ST9DeB+c1nbz8TZi1Kj2W0SHnyjcN44A84HJqwvs+yUYiB0SoyJTTAytYyP9pXP1DEioLkmUwwgfU8sCpZYbrqC4SpaL+UdNSD+nbWGigfuJTynnzSLUOiFMzip6Q871UbkqyV4OQCAo9+SnkgZz2qfJlVOR0xlot1LJasUhiOyHVydoJDzxLacpBBCU8kc8UHTlzuEwuM5Uhx04yAlpKE/YdycZ5NZGci8zJihFTJczklTDBGefPj+a7tN6ZvjN0jzUsrbLagrLr20qH9cmhZqrVeRALNtuyy2+TbZFsXFbVDU8iMuOPTJzvUBuPUWeCrigXLUQGnWocbcubu+U6oYHTBACjjyOPv3pSwbiz1tvpo3UV1F+lYCN591E4yo1xw4LTLQbYCQ1wlASnGMnOCPFS0ZjZ49go0s//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYDBQcC/8QAKhAAAgECBQMDBAMAAAAAAAAAAQIDBBEABRITIQYiMUFhcQcUUZEVQqH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAIBEAAgEEAgMBAAAAAAAAAAAAAQIAAwQREjFBEyFRkf/aAAwDAQACEQMRAD8AYs0jphWRLl8CxBbC6vwefUYacw6k7hBTqtkULrAwudWZ/R9PIqQRQVFVoMcdPCtmPPOM6k69raVpZ6qkpEhj8RxkuSfQFvH6xTerRIHk6iVK2uDk0h6+8ATUqrOv450qYaZ5I3mihZ2bkF2C6z8E+MF1GZM8rQJI8s+4U2oV1Ss1gbAenBBJ8C/JxhOafUnN83V6DZhpaSRgs2xF3qoN7amNr/o44r86SSc1dTmdTmFe51OyPpt2gANpHPA/zxhWpcorZUQq2zkYZvyFdYZzJmlRBNTJBShQI1dDdjc838Em2FrNdIpoY5RvQhdvbC21rqJNzfyDfEzyzzvIlShlRCHEg4I9gfT5wNVJLUSI08hse2QLwxHNz+MTTszSgKmE16lYapop4ZVhgp4EJ243j1lvfBNVmO+AE0OQe+RabQvn+ovc4k+zjkYlnVLAKXA50/j2Hxi3pqCKOBGhKO7XJSPuYW9cbJxzB7Zn/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Autumn-mobiles</div>
-                                                <div class="unlocked">3 Aug 2024</div>
+                                                <div>Get Rich and Drive Tryin'</div>
+                                                <div class="unlocked">4 Aug 2024</div>
                                             </div>
-                                            <div class="description">Win all Seasonal Championships in one Autumn season.</div>
+                                            <div class="description">Find/Smash all 10 Treasure Chests.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwH/xAApEAACAQMDAwQCAwEAAAAAAAABAgMEBREAITEGEkETFFFhInEVMnKB/8QAFwEBAQEBAAAAAAAAAAAAAAAABAIABf/EACMRAAIDAAEBCQAAAAAAAAAAAAECAAMRIQQSEzEyUYGRwfD/2gAMAwEAAhEDEQA/AIQ11wMrTiGCVinbGvqf0Oedx9fWi0vE1wv0Sw08kUojy6EAFlwe8Icn45504SxwtgOzHHwANZz9NQVruUqkWGJWZ1yO/uXkLx+XHnOjVNYD4bst66yOOIZYEEvUEns6RRBG6urVNUWIbwMecjO4zqi60juN1sskUsdOgDq6qZChyDzvvgZ/X/dJOnIfY0MjUlCpqICGinqAGlkYcZY4Cj/Px51y79Z3K7UYkFQaYOvpyxqygxjOGycc5HO3Omv1KVr2XU+2QLdLYGDD7mpq6SnpJqmqqBCkYUgBCzNk4OB9c6FoeoDXUNTF05ZqmqMYaUzzHbs3LE+Bvprf+h6yst0cVLdbfbAkIHqSAszyec+MHA/XxqNoLNHa6OVb9eqG5XOSQqcSS1CImBsIwUQ+cliRxtoSOpGideu5qgO74Prm/EW37qJ62ejnmu1NRVMCmEQxSZYHwdud/OwxnnOmHRF19C9Q0HUoR/eCSMyunq5KqCMhfyG5GPnOkNTbLCkKwL/IVsUbmQRyusUeSd9kH38nRdFdZLcSbLR01uOMd8KZc/t2JbWsCuuSXud/Mf27P//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAcDBQYI/8QAKRAAAgECBAYCAgMAAAAAAAAAAQIDBBEABRIhBhMxQVFhIoEUcZHR4f/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EABwRAAIDAQADAAAAAAAAAAAAAAEDAAIhEQQiMf/aAAwDAQACEQMRAD8AU1A8EEjFgEnANtY2+safhzjKpymUsC0AELK2++k9dP7tiglrKda2SIxJUQbaV5mhye4BsR6+++CJ6LLa4xolQBKiojhjy3DaQW+J2Kg/EG9z474it44b7H7Hq2y8Ea/AHFVE87zhJKc11Umok3GhQAL/AMXv79YacXHVDUVb/jSaldxFHY9QOp9XOOVqeWvy+qjpqMUNYIyQIw/KkHXx6t5wXkXEemoUwyyx8l1Yh2t1uRYjrY4ywOoCaxFlduC0WtY7uwEitpVrjfBVPWO0qR07vZtmWWzD+8EyQiXsTiEZfOJQ0C3bsMV5yT7DKyjpeUSXcVZGsSaidwe48YP4fMkWaxLTQpLI5+ayrdWj3v7H+YiWkllVRMhjY7MUNyR4vi9yelhoGMsMJuwsWuSx+8AxnBkaq+nZ/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Antique Restorer</div>
-                                                <div class="unlocked">2 Aug 2024</div>
+                                                <div>The Final Twelve</div>
+                                                <div class="unlocked">4 Aug 2024</div>
                                             </div>
-                                            <div class="description">Find and restore 15 Barn Finds.</div>
+                                            <div class="description">Reach Round Ten of the Island Conqueror.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+69 others...</div>
+                                            <div class="description ellipsis">+73 others...</div>
                                         </div>
                                     </div>
                                 </div>
