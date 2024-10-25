@@ -153,7 +153,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.12183436002738 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.2067077344284742 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -527,7 +527,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.42m out of 221m repositories</span>
+                                    <span class="gh">ranked 5.42m out of 218m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -675,7 +675,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        482 hours played
+                                        484 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -683,7 +683,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 28 Sept 2024
+                                        Last played on 24 Oct 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -692,7 +692,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            127 / 320 achievements unlocked
+                                            128 / 320 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYABwIDBP/EACwQAAIBAwMDAgUFAQAAAAAAAAECAwQFEQYSIQAxQRMUByJRcYEyQlKRoWH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMhEv/aAAwDAQACEQMRAD8A6rhfajT1Vdau91Msdvj+WNjhy7McokSZ5cgHg4A7nA46SqvXOoLrS1FXY4rJSrFE1T7aqPuqx4VPLncNg+u0AHHOMdBPiXcJbvqpKRmPo0kYbb4MkgDM39FV+y9S3UEVPbpjHU00ctRE0Tgk71jPdQAOS2MHngceT0WObNiihMhq3641JQQNVXektVYkcEdXNBSr7WqigcgK+VGw91O0g4DAnGeHa13yo1FW2urs1VLLbZeHYYTaynLpKmeHwRwMg9xkcCurjLHI1wqcrvq7ctJ6fkNtRSCPoAmc/wDR0P8AhhcZrRquSjVj6FWhfb4EkYLK39bl+zdFTsmxdQ+TRrummt2tJpJMr6qqMntuQBSP8B/PTh8PrjTw2y+VEqQy3KWFbdQwOzoJXmDbl3LyCyoVB45PcZ6Lan0lcNTVtyWojdTEcwu6hQxz8uxvJ2989+3VeLR33TdUqS00jmBmlg/b6cxXaJMHvgDtnHY+Oi2sqOZIwY9CHdb0sdmqo6aKeiaoSFfdxRSDEU3lET9WAu0ktyTk56XdB0s1x1nE8YLekrDI/k42gf6T+Oszbr1qOshEVNN6xiSOWRzvaRlGN5x3JGMk/Tv1Y2ldJ3DTNwtqwROwlO6Z1UMF5+be3g7e2Pt01IXHMmYLs//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Re-Animator</div>
+                                                <div class="unlocked">23 Oct 2024</div>
+                                            </div>
+                                            <div class="description">Control at least 20 Zombie units at the start of your turn.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -706,18 +716,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUEA//EAC4QAAICAQIFAwIFBQAAAAAAAAECAwQRBTEABhIhQRNRYSJSBxQkJXIyM0Nxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwX/xAAiEQACAgEEAQUAAAAAAAAAAAABAgMEABESITGRBSNBUfD/2gAMAwEAAhEDEQA/AAvK/LxmgmnKBlgiM8rHH0qBnAHlj2AHyM9uEbWY6zdFWjp9d1/xrUS7MP5yyjoz8KoHtnibdsyaboddI5VhlkSNZoex9cnqlVwftCvH/s9I8cM/w45dr6hC0luyGjZSDEYiCxyCWDk9yCO+ARgkZ9s6/wCorBGbE3WatWuspO46KPrs4J1DmCOq37rpNOeNs4/RpTlP8ZIh05+GUjjDzRy8IYILEYQxWIFsQyJgB0ZerGPDDyP+jtwr535VtVYpEjSS7pzo7mZYSojVTj6jtnHcEHuO/BrldprHKFirLP8Am5aySxQRNjNUIRMWz9hRHx8ll8gcPUvLIoliPH7xht1lhI2tuU+RmK+GsaXXr1m9S0kCyOZD9UKQo5aMe6sWLA+NjsOLPJvOVjS3ilgkrtg9TQzABGb7gdwfkEEbcGKlpLtKSvIyAyJ6bq47MMYyPY47ZG47Hxxl1YTtOjxRR5WJUZVYZkZRjqPyRjO23FLFRWBhmHGSgstASyjcD2Me83c9wz6RNUqUqNbrHVI8ICsTnJyEwvTkbHJOPfaJXrtpejWKN0ivqLV3kX0my9lJ0jZI2xsqFepvfYbniJoTtXmnks14ZpHrvFEjN/ZZsAvnbIXqAxn+rPjjreurWqxwh0JRPTRE2QYxknJycADJ2HYcLVpKntQjg8nBPYacgkaAfGf/2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Mother’s Day</div>
-                                                <div class="unlocked">28 Sept 2024</div>
-                                            </div>
-                                            <div class="description">Win a regular game as Wu Zetian</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+125 others...</div>
+                                            <div class="description ellipsis">+126 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -750,7 +750,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        482 hours played
+                                        484 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -758,7 +758,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 28 Sept 2024
+                                        Last played on 24 Oct 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -767,7 +767,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            127 / 320 achievements unlocked
+                                            128 / 320 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYABwIDBP/EACwQAAIBAwMDAgUFAQAAAAAAAAECAwQFEQYSIQAxQRMUByJRcYEyQlKRoWH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMhEv/aAAwDAQACEQMRAD8A6rhfajT1Vdau91Msdvj+WNjhy7McokSZ5cgHg4A7nA46SqvXOoLrS1FXY4rJSrFE1T7aqPuqx4VPLncNg+u0AHHOMdBPiXcJbvqpKRmPo0kYbb4MkgDM39FV+y9S3UEVPbpjHU00ctRE0Tgk71jPdQAOS2MHngceT0WObNiihMhq3641JQQNVXektVYkcEdXNBSr7WqigcgK+VGw91O0g4DAnGeHa13yo1FW2urs1VLLbZeHYYTaynLpKmeHwRwMg9xkcCurjLHI1wqcrvq7ctJ6fkNtRSCPoAmc/wDR0P8AhhcZrRquSjVj6FWhfb4EkYLK39bl+zdFTsmxdQ+TRrummt2tJpJMr6qqMntuQBSP8B/PTh8PrjTw2y+VEqQy3KWFbdQwOzoJXmDbl3LyCyoVB45PcZ6Lan0lcNTVtyWojdTEcwu6hQxz8uxvJ2989+3VeLR33TdUqS00jmBmlg/b6cxXaJMHvgDtnHY+Oi2sqOZIwY9CHdb0sdmqo6aKeiaoSFfdxRSDEU3lET9WAu0ktyTk56XdB0s1x1nE8YLekrDI/k42gf6T+Oszbr1qOshEVNN6xiSOWRzvaRlGN5x3JGMk/Tv1Y2ldJ3DTNwtqwROwlO6Z1UMF5+be3g7e2Pt01IXHMmYLs//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Re-Animator</div>
+                                                <div class="unlocked">23 Oct 2024</div>
+                                            </div>
+                                            <div class="description">Control at least 20 Zombie units at the start of your turn.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -781,18 +791,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUEA//EAC4QAAICAQIFAwIFBQAAAAAAAAECAwQRBTEABhIhQRNRYSJSBxQkJXIyM0Nxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwX/xAAiEQACAgEEAQUAAAAAAAAAAAABAgMEABESITGRBSNBUfD/2gAMAwEAAhEDEQA/AAvK/LxmgmnKBlgiM8rHH0qBnAHlj2AHyM9uEbWY6zdFWjp9d1/xrUS7MP5yyjoz8KoHtnibdsyaboddI5VhlkSNZoex9cnqlVwftCvH/s9I8cM/w45dr6hC0luyGjZSDEYiCxyCWDk9yCO+ARgkZ9s6/wCorBGbE3WatWuspO46KPrs4J1DmCOq37rpNOeNs4/RpTlP8ZIh05+GUjjDzRy8IYILEYQxWIFsQyJgB0ZerGPDDyP+jtwr535VtVYpEjSS7pzo7mZYSojVTj6jtnHcEHuO/BrldprHKFirLP8Am5aySxQRNjNUIRMWz9hRHx8ll8gcPUvLIoliPH7xht1lhI2tuU+RmK+GsaXXr1m9S0kCyOZD9UKQo5aMe6sWLA+NjsOLPJvOVjS3ilgkrtg9TQzABGb7gdwfkEEbcGKlpLtKSvIyAyJ6bq47MMYyPY47ZG47Hxxl1YTtOjxRR5WJUZVYZkZRjqPyRjO23FLFRWBhmHGSgstASyjcD2Me83c9wz6RNUqUqNbrHVI8ICsTnJyEwvTkbHJOPfaJXrtpejWKN0ivqLV3kX0my9lJ0jZI2xsqFepvfYbniJoTtXmnks14ZpHrvFEjN/ZZsAvnbIXqAxn+rPjjreurWqxwh0JRPTRE2QYxknJycADJ2HYcLVpKntQjg8nBPYacgkaAfGf/2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Mother’s Day</div>
-                                                <div class="unlocked">28 Sept 2024</div>
-                                            </div>
-                                            <div class="description">Win a regular game as Wu Zetian</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+125 others...</div>
+                                            <div class="description ellipsis">+126 others...</div>
                                         </div>
                                     </div>
                                 </div>
