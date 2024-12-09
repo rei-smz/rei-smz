@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1537" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1455" class="">
     <defs>
         <style/>
     </defs>
@@ -19,36 +19,36 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.993191237418591 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.986111111111111 329"/>
                                     <text x="60" y="50" dominant-baseline="central">41</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3378</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3384</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.476813317479191 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.470308788598575 329"/>
                                     <text x="60" y="50" dominant-baseline="central">14</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/841</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/842</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.103174603174604 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.098527746319366 329"/>
                                     <text x="60" y="50" dominant-baseline="central">22</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1764</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1766</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.128072445019405 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.1198453608247423 329"/>
                                     <text x="60" y="50" dominant-baseline="central">5</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/773</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/776</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -153,7 +153,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.7638603696098469 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.848733744010941 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -527,7 +527,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.48m out of 215m repositories</span>
+                                    <span class="gh">ranked 5.48m out of 222m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -632,7 +632,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m10.41.24 4.711 2.774c.544.316.878.897.879 1.526v5.01a1.77 1.77 0 0 1-.88 1.53l-7.753 4.521-.002.001a1.769 1.769 0 0 1-1.774 0H5.59L.873 12.85A1.761 1.761 0 0 1 0 11.327V6.292c0-.304.078-.598.22-.855l.004-.005.01-.019c.15-.262.369-.486.64-.643L8.641.239a1.752 1.752 0 0 1 1.765 0l.002.001ZM9.397 1.534l-7.17 4.182 4.116 2.388a.27.27 0 0 0 .269 0l7.152-4.148-4.115-2.422a.252.252 0 0 0-.252 0Zm-7.768 10.02 4.1 2.393V9.474a1.807 1.807 0 0 1-.138-.072L1.5 7.029v4.298c0 .095.05.181.129.227Zm8.6.642 1.521-.887v-4.45l-1.521.882ZM7.365 9.402h.001c-.044.026-.09.049-.136.071v4.472l1.5-.875V8.61Zm5.885 1.032 1.115-.65h.002a.267.267 0 0 0 .133-.232V5.264l-1.25.725Z"/>
                             </svg>
-                            360 games
+                            361 games
                         </div>
                     </section>
                     <section>
@@ -734,15 +734,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAABgIDBAUHAQgA/8QALxAAAgEDAgQEBQQDAAAAAAAAAQIDAAQRBQYHEiFBIjEyUQgTFBWBI2FxkUJDUv/EABoBAAIDAQEAAAAAAAAAAAAAAAMEAQIGAAX/xAAkEQACAQQBBAIDAAAAAAAAAAABAgADBBESEyFBUWEjMQVSwf/aAAwDAQACEQMRAD8A9EyL0Cr5VFmWG2t5ZrhuVEGSamlCpZO+Kpd9gHZOrYJEiRZBFQGxmKU15WCGKveWWOB4fEjeRqh3BqSaBo8t1L0EvhGaXwo1L71saC5k8TRSNHn+OlUnH3MWyYSgxyuWqN/iMet7PNyKRhlpZb7ba3LeUgDfginrpYoIpZ+uFHMartiXn3DaFhcSehY1X+hTG/8AVPtegoijxXbGNTXZxgxfhJfj9mWVhqXPZO8IyJPDTGSnjPqpFvEtppttHD1IRZG/Ipi+uDhQPVRiOkWbqT6hrJgDB9XvVfriLHol99QodGjPTHnVmw8D98DzpEsYe2kUr8zmU9D/ABQXGMw1FtanSYZ8O2uF73XdHc8qpI7xr26tRB8QT/J2NGnQs7kdayHhtqf2rjA6A8qzXbI4/bJrQ/ihuWg0bT4UbpLKSP6pbPxGaZ7fT8irjuP5CnhFMJeHtiB1w5B/qgnjjrZbcmj6fA/WOQMVH7iiH4cbj6nZaxTf63Y1im+9UW94pSSGTKxSco/BqXfFMGCtrYNfOD2npC4uZIbW0RhnmhTqP4qPFHJID80fpHv3qYpivbWyNuedBCnMfbpXJg0cZCeJe4p8HqomaqDV2HuG5A5gR5UzdwSz2FxDG3K7qQCKf7MPYZrmThXBwM0FhOViGD+J5Q4XaQ78YriDVkKTwTl1Dd+pxWt/ENthNb2bNqKsRNp4LoufPtQlxgsZtt8U9F3HbsI4bqRYmwMZwKLeP17cxcOkmspMCWMM49wQDQcYmiqVTWr06o7x3gzt6TbmzoHR/myXK82B2yM1jPGLbtg3FC20/RmIe5KtJg5IY9TWq/D1q95quwma7JCw83I7e9AfB3TJtc4kazrWq5mNlKxiB74YipAzKU34qr1M/U222sotG0a0sIzzPHCpLd84qDqTBIldG9fhI9qlaheiOZnnGGbyHsKFZ52mmkUseX/GmUWeC7bZfzNdr7FJJxSDJiqA5kbDUiCfFHasW7ttNbMcXiHNsR5hqCuNFrfjhNGl0P1bWIJNgY8IAArU7q5dZG5BkAdD/wA0Ob2sTrWy9W04tzvPFhT7nNVKx23utWVPEGeDtkbHhKgt/VNnH5qbtbSbXa+nvboR9ZNI0rHuebrUjaS/adoWVnL4WiYrj8Uzdsrl7ic4kHpoiJKV7gsWX9oi+eUyRTweK3Dnn5uppm4+ndhJCpAPn1rlrYy6nDPMs/y4ohzFPeqa81D6lWiiIQR9CaL9RVVwAs//2Q==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAABQYHAgMEAf/EAC0QAAIBAwIFAwQDAAMAAAAAAAECAwAEEQUSBhMhMUEiMmEUI1FxB0JSFoGx/8QAGgEAAgIDAAAAAAAAAAAAAAAABQYBBwADBP/EACMRAAEEAQQDAQEBAAAAAAAAAAEAAgMEEQUSIjEGIUETUVL/2gAMAwEAAhEDEQA/AChORvrxAxXaoyx8VkBgfApg4L05b7URI4zGpp+sWRCzcVTWn03XJRE3pdPD/CUt6qve5SPvt7E01S8G2hRUgdgP8k9aY7aDlRgKM47MOwrvjQBlJGW/14pMtWv1fvVq0dJZSiGztI68LW8sLLfB+WOhUHBxS3r3CElnEZ9Py8XmHu2Krk8YMgYEdfdntQ27hPN5gwH7HPtx+qyteLHrXqOlNuN5dlQsL6zuBVx02nxXqkhSSOtHuNNPFjqe9Pax3HFAHbd6l7U515hOxVdfrPrTGB/QWOQRg9B5qm/x/ZCDSnc4BbsamMgzGc9N3QVVtMu7Wy0KzZnA5np7+cUK1qXDdiZ/EId0r3N+JujYCDd4UV5bsADlj6+g60KgneXTjt7McCuu3OEj3f060qM/yn9jHNbvK7Z2CxuAeuK0XRLiM+MVqvHy/wBs9xXMs8gs90ngmpOPin2AHuS3/IliJ9INymN0fepmTkDd0CgH91Tdfv7W84cujFIDvzHjPkVM2GQoHXZ3pq0Z5IwVX3l0QEzZP6t0a8y7jWMjdn2nzTJLozW6NqtrerLdTIIpICcrgeFXwfmgmjAtfR7nRmY4Uge74FMUui31zepq/NFuVOwW57DHnHzXDrMgefSLeJwmGE57RTTNWvWjaCWylVo0BX5ph0a4uLq2L3FrIrZxisdE5sq7bhALhRknHcUbUApuJ2+KBE4CbmjhhANdnu7VFeC2kbrQO81nUeRcpFYyEpGGH7NPDoG3lm3KBQDXRPFbN9EgMgGW6eKgO5LCzikifSGmkh1SfUYvqLj0PAgwrAf1C+G/JpbkAWZ0Tqu4gDyKcLPQry01QzmRZWmUb1I6RD848GljVkH1krqNhJKsv5+RTDpEmJMJP8tg3wtx8TL/AMYvNGu0m3K8WfUQPb80zPJi4+n2klEDn9GiV66SafdWyZd3TufFAmlwVMjhJ2URnP4Hag005l7TLWqivxCYLJWEZk3guoyMf+VhNrttbXYtr4crIzzifSfjFDhq0ENmDIcbCcx/2b/upzfcTT3uo3GoPatHan7Q39Qcfj5rQR6XcPXpVmLWoLmVrezdWKdeZ4rZIhYsznmEj3r0FSvSuIJLDWoZFtne3nwpcdhVDbWI7uNGh+2h6Fz2FQGclABK5lkLT3hJIygUmkTi6ye11PmjPLZRg04XU4BuVQgmRQAR5NDeK9k2iRBh92LqT8UQoybZUH1et+sLs/F//9k=" alt="" />
                             <div class="about">
-                                <div class="name">The Witcher 3: Wild Hunt</div>
+                                <div class="name">your wife</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        RPG
+                                        Casual, Indie
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -750,7 +750,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        120 hours played
+                                        2 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -758,7 +758,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 30 Nov 2024
+                                        Last played on 8 Dec 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -767,32 +767,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            24 / 78 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFAQj/xAAmEAACAQQCAQIHAAAAAAAAAAABAgMABBEhElExQWETFCMycYGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOXaNZwm5uooAyoZGC8mOAM90JRrecetWitpZyiNIrhnbDLIQjEg9AjX9oFL+zaxvZbYyJKYzjkng6oBFW5Db3V68TxTfEaQ4fCrgZ2fGx+akThQ7cM8M65ecUC1vG8z8ExnGdmqSTnTIeU0Z5L0p9R791IDFTlSQexWq5Ugg7HrQWfmTJ9WXCySY32AdD90jcho5Csn3edUs0hZizeTWM5JyTk+9B//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Something More</div>
-                                                <div class="unlocked">3 Feb 2023</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABQMEAQII/8QAJxAAAgEEAQMDBQEAAAAAAAAAAQIDAAQREiEFMWEUQVEiIzJSkcH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A5tsrGG6I0ul2CbMhUqQewAPYjJFS3PQepWw2NuZE/aI7A/7Ra51I554PmnOlzT+kupbe5miniVWCq30nvnjtQGCCVVy0bDHyKuz2K2tuZLktsw1jRRghuCds9sfHvSfqREI7/qOk94V+0gUDA9icUNe3M1zI8kzks3ce38oD1bFX+l3AiuDn8HUqaOzWVcqcgkHxQXHbVtTwBwPPmomfNRPJs7MARk5rUtQf/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Full Crew</div>
-                                                <div class="unlocked">3 Feb 2023</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+22 others...</div>
+                                            0 / 0 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
