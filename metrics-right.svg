@@ -19,36 +19,36 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.766824909243228 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.7615727830451755 329"/>
                                     <text x="60" y="50" dominant-baseline="central">41</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3581</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3586</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.228149829738933 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.222222222222222 329"/>
                                     <text x="60" y="50" dominant-baseline="central">14</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/881</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/882</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.8955866523143166 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.8893068242880173 329"/>
                                     <text x="60" y="50" dominant-baseline="central">22</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1858</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1861</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.9536817102137767 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.9513641755634639 329"/>
                                     <text x="60" y="50" dominant-baseline="central">5</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/842</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/843</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -257,7 +257,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        15 hours played
+                                        18 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -265,7 +265,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 13 Jun 2025
+                                        Last played on 15 Jun 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -274,32 +274,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            23 / 164 achievements unlocked
+                                            25 / 164 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAj/xAArEAACAQIFAgYBBQAAAAAAAAABAgMEEQAFBhIhIjEHExRBYXFRFTJC8PH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAIFBv/EACURAAIBAwIFBQAAAAAAAAAAAAECAwAEESFhBRIxUZETIjJB8P/aAAwDAQACEQMRAD8AdNbyR6erEhjjMqzRPPFIylUKqepb+zAc/WAWS6lpZ8ypkrPT01NKrOKpKhSqWUkbuem9rc4Hav8AEaszmligyydI4pELS7EXfEb2ZTuuBwb3/GJfUUVLOwkqYp6yQstzLNcMD3awsOPxhoTSNoDQCtvGpDpk98/hXRcGu9L5jfKzm3nLF17061uODZv5d/bG7L9U6Qnmp6enqY2qXN1VlcXubAHjv8Ym/g+MpXKqmWTLaAmiq5InaSJWIHFrEi+CuqtSCgqfLoahmjVQppqWFEmuQwLbjwO6kA9sA9UliinxUSwAGUOT0ztUchzSRpGOT5c1I+8DjbIHXvdrjafo/OD9bVvnFRHJqDdUOgslPRyLBDD8Kqr37dzicJS6qoxG4pq8IBcDyywP3hqyz1VXBaWmlpzInUCWQqeL2v8A7hGVpMDlrUWacPYMZhk76eMfffNNFsqyzLZEy4JL6thK9NLKzNutbcfYdrXGJtqKrpf1SxiSmqrc2kY7gfk8YojUtPVUcKxRIjRDZvF+lb8D+/OFvPtH+u6nljJVb/tIIN+Rg9vIsbcx1NU9wpk9q/EdNq//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwL/xAAtEAABAwMDAgQFBQAAAAAAAAABAgMEBREhAAYSMUETIlFhB0JxgZEUMqHR4f/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAIhEAAgIBAwQDAAAAAAAAAAAAAQIAEQMEITEFEhNBkaGx/9oADAMBAAIRAxEAPwBNVd7xIt24LQkPJNlXWOKcf3cfbSOrfFF9ERpECNGZkhQWpSlFznjKbYAHf1wMjUWuBImJckmMqPGSoIU+VHiD391Cx/3VpTPhlRJm3KvNhyp8mfEiCW2lBAHEKsoFNr4HXOAdNLrcriid5J0+DHwn7I2pbgqVRdW/JlvF5QSCUuEDHtf+dDorc5BIVJUPIW8qzxPUX04Vt2AthLyVSopK/DaQ4u4AAsQTbsT+DpTAo630Pl1bQQzYE+J3PQD1vbShLMe6FVLAA+Jdw5VMZa/ROOKci2UEhCOZuBgWJGLj93bSuPvJhMpLDapDPm8PjHBSjiTnko9RrupbyjxgRT4ZfcPzODin8DOs2NLqUt1brUGcpJJPlSbD2GqjGy8wh1AdrcXU1JmsUtMN1x1bTyo/iJUgIJsAcHl83IZ7Wtobb27I8tDzUWHFiKbUF28IdOgN/X31JUXblQciTGpEVxgPoASt10JsQb3KbEn6Y+uqOkbRixyVzVCS4beUXCB9r5++hHCSCCZqY+q+EocaChd7AX9etp//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Tourist Attraction</div>
-                                                <div class="unlocked">13 Jun 2025</div>
+                                                <div>Adrenaline Rush</div>
+                                                <div class="unlocked">15 Jun 2025</div>
                                             </div>
-                                            <div class="description">Complete your first Horizon Tour Race Event</div>
+                                            <div class="description">Build the Horizon Rush Outpost</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcBBAYD/8QAKxAAAQMCBAYCAQUAAAAAAAAAAQIDBAURAAYSEwchMUFRYSJxMkOBgpGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxESEzEEIVH/2gAMAwEAAhEDEQA/AGs5nl1psOvtxoyFfilRKln9rj/cAZfFvac2ozKpDxNghGnr7tyGF05nVxcdMyottCFrKEKfuUKV3CUpAUs+ew9Y1lSrb0fJkaqxDBdadXpDBQlCh7208rfd8UFWO5mPklgWUeodyzxQqNTryYM2GIjFiS8r8U/Z6YOVDilEpzDrsyBLbaQ4WkuqZUlLlja6Seowg6txcqja2aVtQUbunVaPblfl0I/rviMxcVKpVIjsOaqOIckbSmUp1AX7/K/MYjbkNhYqr8gbjvqKGNmGooZUy7IQ43pIT0uk+RjYZGzfCjOqFfC5LIHxb16RfC/FLlqPwgKH8jiyzQKm7+ihseSb4VoNi6kmVpUU2cgAMJZrqMKo5jMqGCwzuAgD5aU+vNsWXwzUpEdqnR1NRmlhW6/zddI825JHoX+zjnTsrutkqeeKr9Ugcsaqk0wNupA7YK16qF+RueR9zP/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAABAYHBQEI/8QAKhAAAgECBAYBBAMAAAAAAAAAAQIDBBEABRIhBhMiMUFhUQcjgZEUMrH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQF/8QAGhEBAAMBAQEAAAAAAAAAAAAAAQACEQMSIf/aAAwDAQACEQMRAD8AQaR6d0jmlhVrgjStwrbbMCNrXtcY5FQSVljDTFQ0mkab6STt3PbGLJSxvLLJR5klCdfNWWzq0ZHdBpIAB9jxhyyHhziqpoBVUNbQ5vTMRJGY7JIx872t/uNdv6+ZJaun2Y1blE9HWTUlTC0VRE5jkR9ijDuDgaooGJCaWRB2LD+3v3hvrEkmoIYM0y+rpapyzzGePrPjcje34t8YBWPVy4GjkdQ2iJEUAMWPlv1tgUFcZQcK+PQyV8QVsk8Chk5bEgSFezfGKb9FeKUybIJF+1UyQVHO/jvJYmMHqH6Ooexie9Ei2ZQdt8ByZcqsXpZGhcgjpNsSF0dYlqZhPWlDxtwxxSroJsvmj0WejmcGZWvuAD3Hbcb4UeOMtoMiaHNsvRnoHWRYwespKAdNj3tvcXPg7YgCTTRxMq0eXmo0lVqEi5cqn56TYn8YNyTMKqjpo6aQuUViT90kG9rdJ2BHz7w/l3KZsXalnQcGf//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Timeless</div>
-                                                <div class="unlocked">13 Jun 2025</div>
+                                                <div>Ask Any Racer, Any Real Racer</div>
+                                                <div class="unlocked">15 Jun 2025</div>
                                             </div>
-                                            <div class="description">Take a photo at every time setting</div>
+                                            <div class="description">Build the Horizon Street Scene Outpost</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+21 others...</div>
+                                            <div class="description ellipsis">+23 others...</div>
                                         </div>
                                     </div>
                                 </div>
