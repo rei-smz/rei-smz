@@ -257,7 +257,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        7 hours played
+                                        11 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -265,7 +265,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 11 Jul 2025
+                                        Last played on 12 Jul 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -274,7 +274,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            3 / 79 achievements unlocked
+                                            4 / 79 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHAwX/xAAsEAABAwIFAwMDBQAAAAAAAAABAgMEBREABhIhMSJBYQcTURUyQiMkcZGh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQAAf/EAB0RAAICAgMBAAAAAAAAAAAAAAECAAMREgQxUSH/2gAMAwEAAhEDEQA/AIDBjJkOn3ngwwndbhTqI8JT+Sj2H9kC5xcvT/JuVZ1IZmCjtT0Kula58lZcChbYoRZKTvwL/wAnnEapUF12IZPLAcsrbg4qWWazLi0GmRaKktLbm/uVlTafdQbWT1c/cQbdX2/IxBynZviHEuoRVGXGcxpTlX0wdrJhyoKYtWbIIiNyHCw4T+Atyrvp2PHOJf6oUmiUyoKEKKITq/sYa1DYbXKTsBjTM9VTUM1OzaOHI7nvJMdQ6dK0npV4JUL7jtvhh9cpUas0ml1QkGetttx0pHSFKSNY37X4HjB1lg67MYjINXIUQPJmR683RFvzobEeE8gL0yXUgrB6kqKb3tuDY23Awo1MSYkh6E8gLcZVrASSrb5FuxAPn/MdPJfqFPpLyzUZbr4bj+zGUs9TRuNwqx3AFhccE7jnDDmn1Rk1yMgGSw2NAStQNlr25IAuN97D5+BjrCxXOw78mQq6AA9exDoynpMttTa21yVHoJN1pT3Vf4887ecHZ8nhTMWAlzUG0psB2SBYYC+vNRUPohp/UdOpbwaA1nz3OF551b7qnHVFS1G5Jw9dRLbEQbbQF1Uz/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>They Call Him Anjin</div>
+                                                <div class="unlocked">11 Jul 2025</div>
+                                            </div>
+                                            <div class="description">Completed "Deep in the Shadows."</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -288,18 +298,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcEAwX/xAAqEAACAQMDAgYBBQAAAAAAAAABAgMEBREAEiEGBxMiMUFRcTIVFmGRwf/EABYBAQEBAAAAAAAAAAAAAAAAAAMCBf/EAB4RAAMAAgMAAwAAAAAAAAAAAAECAwAREiFRE5HR/9oADAMBAAIRAxEAPwCD2a2vc6xYQ4iTI3SFd2M+wHuT7D+yACdVintHR3TAoobxYJa+WpDHxKiV5G4IH4oVUcn0GfvR/s/Z1raySpkOQrbRz6DHOl/dye3xTW2iSB2q4F8Qzh8eHGcYUfJJGcnOPs6zLWZq/GDoDNKcUSIdhsnEls6F7fXW3012eyzUjSHKU4lk8Njkgoyg5yCCMfI9TqTd0LVZLZcGFFSihlf8IItw4HGSp4A1ROiuo6u4dPZrJZBPBuSObONwBwGJ9S27gn3wPfOvD78VFJdrfb7khDVjKkjlTkAsoDDP3jGPjRyoxqFYn7y3kokWAHYzh2/6R6jt9tFdPF+n07qJVZ50VyPyVtp9jkZDY0S6tuVwm6kqJLgkEtaAm4RAvGwC4DAfH+51q6L7hV9pmc3GrlnEdOYaZnPmiORyGweQBgZHoTyPXSHqnujU3ymQGogjGwLIwOHfj1IAyOeSB8/A0jK60JZd78yUZXQAHoe/mZO3UD0Nzs94mvdDC9TOssdFAGlkVVc53oBtizg8sRgHONHOu7uK1IoFaXHlkUOF8ynPPBOPo6yfuJKaKSKl3Fnbe0gQDcf599Gndnbc7EnAGTp5yLPzPWDSwVeIO8//2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>The Beginning of a Samurai</div>
-                                                <div class="unlocked">9 Jul 2025</div>
-                                            </div>
-                                            <div class="description">Reached level 10.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+1 other...</div>
+                                            <div class="description ellipsis">+2 others...</div>
                                         </div>
                                     </div>
                                 </div>
