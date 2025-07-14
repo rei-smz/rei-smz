@@ -19,9 +19,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.7355303240099693 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.7303650442477876 329"/>
                                     <text x="60" y="50" dominant-baseline="central">41</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3611</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3616</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -37,18 +37,18 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.854100106496273 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.8479532163742687 329"/>
                                     <text x="60" y="50" dominant-baseline="central">22</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1878</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1881</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.9398584905660379 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.9352941176470588 329"/>
                                     <text x="60" y="50" dominant-baseline="central">5</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/848</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/850</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -153,7 +153,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            3.10k hours played
+                            3.11k hours played
                         </div>
                     </section>
                 </div>
@@ -257,7 +257,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        11 hours played
+                                        18 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -265,7 +265,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 12 Jul 2025
+                                        Last played on 13 Jul 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -274,32 +274,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            4 / 79 achievements unlocked
+                                            8 / 79 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHAwX/xAAsEAABAwIFAwMDBQAAAAAAAAABAgMEBREABhIhMSJBYQcTURUyQiMkcZGh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQAAf/EAB0RAAICAgMBAAAAAAAAAAAAAAECAAMREgQxUSH/2gAMAwEAAhEDEQA/AIDBjJkOn3ngwwndbhTqI8JT+Sj2H9kC5xcvT/JuVZ1IZmCjtT0Kula58lZcChbYoRZKTvwL/wAnnEapUF12IZPLAcsrbg4qWWazLi0GmRaKktLbm/uVlTafdQbWT1c/cQbdX2/IxBynZviHEuoRVGXGcxpTlX0wdrJhyoKYtWbIIiNyHCw4T+Atyrvp2PHOJf6oUmiUyoKEKKITq/sYa1DYbXKTsBjTM9VTUM1OzaOHI7nvJMdQ6dK0npV4JUL7jtvhh9cpUas0ml1QkGetttx0pHSFKSNY37X4HjB1lg67MYjINXIUQPJmR683RFvzobEeE8gL0yXUgrB6kqKb3tuDY23Awo1MSYkh6E8gLcZVrASSrb5FuxAPn/MdPJfqFPpLyzUZbr4bj+zGUs9TRuNwqx3AFhccE7jnDDmn1Rk1yMgGSw2NAStQNlr25IAuN97D5+BjrCxXOw78mQq6AA9exDoynpMttTa21yVHoJN1pT3Vf4887ecHZ8nhTMWAlzUG0psB2SBYYC+vNRUPohp/UdOpbwaA1nz3OF551b7qnHVFS1G5Jw9dRLbEQbbQF1Uz/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAYHBf/EAC0QAAEDAwMDAgUFAQAAAAAAAAECAwQFESEAEjEGB1ETQRQiYXGRFSMyQqHw/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwUCBP/EAB8RAAIDAAICAwAAAAAAAAAAAAECAAMREhMxUSHB0f/aAAwDAQACEQMRAD8Ag9Gpy6nMSyHA0i43uFO61/YD+xPsPyQATq10LpDo+kxWTWoMFa13Tvqk5W9RxwhJSlOfF/udT7tfTjKqCHRusXg3vCiA0MblED7jJ86J6nlCZU5Lq3HS8l9xrYQNiW0qsnaeeBm+p17u9nFTgEoV1olYZhpMsKO3XQLzbc2RSCw4VXbaYkrWw7fgYOf+ydR3uhSqJTKgoQoogur/AIMNbhgYuUnAGm/txU1NRKjHYlP/AAjACmFOHZsURkgA4G4e3gaG75S4lbpVMqrZvKcQh1dsgFQsoX+9iLeNFU7doViYj1KKywA+fqY3SXRPVtPht1VqIyzHKfV9GTKS0V3HyqtyOfe3+6XXWXW5UpqqKU260ApSUEKU4onkWuLZuT4+utPovuFPpLyzUZbr4bjlmMpZ+Zo3GQqxyALC44JyOdMPVXdGTXIyB8Qw2NgStQNlrxyQBcZzYefA0j9iudHn1M18GUYfHv8AIgplypL8GDTVlW1BQtSMBRJ3KUT4Hk+2tDrucPQiU9Lm4NJTjwALD86C/X2oqH0RE/uOnct4NAbz9TyRpeedW+6px1RUtWSTrorr0hiMyBbbgKg7s//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>They Call Him Anjin</div>
-                                                <div class="unlocked">11 Jul 2025</div>
+                                                <div>An Agreement Forged</div>
+                                                <div class="unlocked">13 Jul 2025</div>
                                             </div>
-                                            <div class="description">Completed "Deep in the Shadows."</div>
+                                            <div class="description">Completed "The Ocean Roars Again."</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHAQX/xAApEAACAQMDAwQCAwEAAAAAAAABAgMEBREAEiEGMUEHE1FhFCIjMoGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIF/8QAHxEAAgICAQUAAAAAAAAAAAAAAQIAAxESkQQhInHR/9oADAMBAAIRAxEAPwCD2a3NcqtYvcEUYI3yEZ2j4A8k+Bx9kDJ1dOkOgumVp/57RTV8iErK1bWM8gb4KIQq8+OfPJ1G+kvYDzyyyzJPHJG0IjBO7Bw69sDIPc/Xxqr0dz/BMcVntpoKWmnAEnvgNJA6SMSWPckJvG7+pAyME6zuqdy2FOAJoUJWqAsMkxuPpx0GwWqq7M9NOH/WCKokaGQ/GBz/AJx/uo56oWqyWy4MKKlFDK/9IItw4HGSp4A0yXvr+5vVMESaKGBCqBJNvvMMYcup4JxwqnHIznHO+uFZR3y0Wq7xNuqpY45nI7Deo3Dn7xx9aOpn3XcnmW6LoxUCLVq9Ouqns61v4cEFM6e5sqalUZgeQwXPHB847DQV3vFxheWgqqdEKqwaGPkBWRFJXb4xEmPjBHY40X0X6hV9pmc3GrlnEdP7NMzn9ojkchsHkAYGR2J5HfTD1V6o1N8pkBqYIxsCyMDhn47kAZHPOB8/A0j7h/Jc+pNWpXsefknNFU3Ooq44qVBK8vAeWIMAPJ3HsB5Ouv13XD8ekt6SbliVQAPCqMD/ALoQ9QR00c6UoJkkO5pRGBvOPOTnGlyaV55WklYs7HJJ09dexDEYg2W6gqDnM//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHAgX/xAAsEAABAwMDAgUDBQAAAAAAAAABAgMEBREhAAYSMUEHEyJRYRQWMjRScZHw/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQAAgX/xAAcEQADAQADAQEAAAAAAAAAAAABAgMAETFREhP/2gAMAwEAAhEDEQA/AINR6cqpS0tBflt3HJfEqIv2Skfko9h/ZABOrVtXZm3o8dBn0KO+pa1NIcqMtaluLSP2o4pTmwxfr1Opr4bMl3cMNry0uCS6WhckeWbflYf62m7dFVnO151uJ+mjPKQyEHnjCSvPcnI/m3bWfejs/wAKeAM/Kc1mGYck58i7G2DJWHZ9EVCmJX6GGZLi47/ta3XvjBx31KPFClUWmVBYhRRBcX+DDXIYGLlJwBpzj7vfVtelrKH1SHZao6lJVwFwbhSbdTcjHunQXjjJjVik0yp8gqapttx0p6BSkgLGfnIHxoMnf9B9E+d4rzUTYgDrnCeH2y9wU5MasyY30rLSS80lyQlsq5JwSnrYg2za2ubU4D0MhTMlLq33ktPI4249Tceo4v3Fj850JsrxCn0l5ZqUt2QER/JjKWfU0bjIVnIAsLjoTkddMO6fFGTXIyEmSw2ngErUD6l46kDpnNh7+w1ai0Dkkd+aSZCgHPXuVFCQkNQYklTii8HWy3gCyeN1ZOANY31OH08Snoc5JaSkAeyUiw0H9wtxm3m4oJW4eSnQ2ByPzfNtLr7y33VOOqKlqySdMykSQzDAtYAFVO//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Spa Healer</div>
-                                                <div class="unlocked">11 Jul 2025</div>
+                                                <div>Keeper of the Flame</div>
+                                                <div class="unlocked">13 Jul 2025</div>
                                             </div>
-                                            <div class="description">Bathed in first hot spring.</div>
+                                            <div class="description">Lit all three evil-warding bonfires in Itsukushima.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+2 others...</div>
+                                            <div class="description ellipsis">+6 others...</div>
                                         </div>
                                     </div>
                                 </div>
