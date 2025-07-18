@@ -241,9 +241,9 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABAcFBgECAwgA/8QAMBAAAQMEAAQFAwIHAAAAAAAAAQIDBAAFBhEHEiFBEyIxUWEUcZEIQiQyRGJygqH/xAAaAQACAwEBAAAAAAAAAAAAAAAABAECAwUG/8QAIxEAAQQCAQQDAQAAAAAAAAAAAQACAxEEIRIFEzFhI0GRof/aAAwDAQACEQMRAD8AREuW7OfDqxrVZbb2dmhmdqXoHpRqT3HahCx4XXy1lLQ5vmt9pUd71QEmQtTvIjp81V7g3a3ggdMeLUaprfUdq5qaIHNXNtT0dQS8OhrEp/Z5UnW6hjw8WFOTivxiGyfa0ddSAQFDdbsSHIrrbreiQaBLYPU7rXmcSpRAJSKul1asGxO65fcnItpQFOtJ5nF66JHyKFvNul2O6P2+6MLjS2j1Sv8AcOxFHcJMkkY9nFukRnFBp1wJeAPRSfanV+obHRlDQvdiQlU6I0l6U0B5g2fQmj2pAs0kC3HlPR3pLEdao7adrc7IHuaNxe1Ccy8+vzpb83Sm7lbVptXAuxR9JjpmSFJdJHnUdbI37VK3zhvAxhqwv2WWGIl1QhtYfPNolIJP/aQzQ98fx+l6Dor4seU9073V+LCQF7QESiUqGvQUPb7Hd7yia9aYLspERsOSFoHRtPua9B3fhhgtsvUG032e4/ermdNIadKQjY2FEe1Q/BZUrHmuI0GMwJhgxiWQlO/E82tH3piCMxinJLqWU3Lfyj8BJnCbHKyjKoFjjHkclOeH4hHRs9yavXG4WvGpUXD7Eygx4SQ6/JOipayPMN+ut9qs36frTOsr2VZrerYtiPHZLsZSgNeJvqB+aQ+Q3R2632bNeWpxbz61kk9idgVuuWjsCt8i55bBjsgqSHAV67CmnxLzGfZeJ0e4w9oDMZpl2Of5HUpGuo9DSWsV7m2K4JmW9xKXk/uI2KPnXV+9T3JtykpXIWNGqSGgmsSMPk34T94wZLYMg4V2tMEoEoOl0Mp9UrPrQ2U5AzIlYhLM762NBS2XWG1a5NJ11pd8KcfXfp8ydKdSu32tHjLj93R6aT81wlQbYqw3O5Q48xFwS6vlQXfK2nfQkVm5rnA1pNwzQQvYHEuAJ/CnUqfjUHJjnWQXVibyNBMOIg6WFAen4qDwnLIeK4nk+V29baJ90W4iNGf8xB5t9R3FVvhBhdsyrFZl1ui3lSIgUoILnlV9hSrnPLFxkRZSltNNuqCEk+VI306VJBbuv6oa5kw4c9nQsCgLurTw4Y5RdshwrLrfc3EfxjB8FCBoBZOzoV55ksrjzHmVpPM2shVWix5hLxgOi2OIWHBrqN1VrjcHrjOXJkcocWdkJGq0aeQspGeLtSFgK0jw3JLnKjQ3U0ziFwcCSlSdGoidClQJHhvJWhWt+tchJlgaD7wA/vNWWKuVptN/sTq3LfKCFODlUnsR8ijlpyZy2yIKlxhHkA+IoNgH80vzKlk9ZD5/3NZ+qlg6+of+3OaEJhWaTlloipj26Qy202d8vL0V9/eoe72O7XieqXLWyHnOiglOhVU+qlDe5D/X004a++plD+oe5v8AM0IUtOxebDHM4QU/FQi0Ft0oPrXRciU4NKfdUPlZNZiRXpclLTKVKcNCF//Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgMAAwEAAAAAAAAAAAAAAAYEBQcBAggD/8QAMxAAAQMEAAUBBgMJAAAAAAAAAQIDBAAFBhEHEiExURMUFSJBYYFCkaEyMzRDUlRxg8H/xAAZAQACAwEAAAAAAAAAAAAAAAACAwABBAX/xAAjEQABBAEEAgMBAAAAAAAAAAABAAIDEQQSITFBE1EFYXHw/9oADAMBAAIRAxEAPwDypRRRUUXcea5A6j578Ua6gDqTW28OsCtdgsD+Y56CI7SOeHBB5Vuq/wCjVZsvMjxWgv5OwHZKOONz+OFiHUb+VAA2etSbg61IuEt5lBQ046paEf0gkkCuZ8OTBdS1NZUy4UBYSodSD2NaAUNKHRRRVql2128+KNaG9E/ajqR/ivQ/C7F7LnvDiU1JS03d2wpKOUaPTsaiiRuDdpiG9Nzboht6MPwEVf8AHJ+T6KChwuQF/C2hJ+FH2qr4X4XLuWZzrLPcdimDtZSSRzDZAqJdMNv11t92uLLy5Vutrq+ZsEkgA6rlvwZHZInLhQ6pbm5EbY9DQbWasIU64hptJWtR0AO5rfM9s0K5cJrfcLwWo2QxU65ANKU2BpO9UjY7w0vjtrayBxbcCCFHkdeGxsU28N7IuVmtyt+Wrdk8sdLifiPKUnsQKbmYsmRJG5jtIab+/wA/EiJ7GNNiysQixnZchtiK2p19w6ShPcmmfMcYaxeLFjS3Qu7OAOONp/lpI2NinfgjjsWdxOnXCR0tdleW+vY6FOyAKzzPrw5fMuucxxXMkvLQ2fCAo6/St6Ql8fM1uXB0rs/DTK7n6hbfej8kVW9ciwrvWGg779KaY2Y3JjHF2VJbERe9gJ6ndRWBa3nhNnNpyRMmVfA3HyFDIaceR8CXEJGk9PNKmPZO5auHuaW2O+guyVu65upIK6TbDiyWMRcvrryyJBLTaG1aUkj5mvsuxWxmXCbafeaDuisrWSFE9xSnyaBa0Qw+R2m/4J+t8VeW4NjtqXcfZbFBkF+asqIOiOuz43VnAzHHrdxOuF+tzaptvjwGoraEn96pA0dbpK4mYcnGrTHdgXF0Rn0hS0JcOlbG+1Jnty1NxHkNezw2T1SBorOqVLK9goDddL4/Axsl7i950D0N9zRJ6AHP30tswzNUZNjecRWYLEAPsKLIS2Er2VdiR3rzLJSpMh5J7pWQfzpzjZPKssp6RGbCUyE8vp6+XmlK4yVTZbkhwJSpZ2UpGqex2pupczIh8UrmDcA7Hix7URKStQCRzH6VbQsfu8kBcWC64PpqqgbB6HVSmbhNZHK1KeQPosijWdOFsZzK3QxHjwXPZwSQlxIUAfzqwXLzGSpBetjalt/saaSKQzd7jrRmyNePUNce9J/95I+zhoSxpFEIxI4b2n+5TM2uUYRZsL1EDsCkdKo1W3JkqA93q5U/hKQRS570uAP8ZJ359Q0G5z1H4pkg/wCw0PiYeQnRZk8QqNxF+lbz7DkLw9aRb3QkddjQA/WqB1pbThS4kpWO4Nfdy6TnByrmSCnx6hqKVqUrayT9TRgACgkvkdI7U42Sv//Z" alt="" />
                             <div class="about">
-                                <div class="name">Nioh: Complete Edition</div>
+                                <div class="name">Nioh 2 – The Complete Edition</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -257,7 +257,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        27 hours played
+                                        3 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -265,7 +265,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 16 Jul 2025
+                                        Last played on 17 Jul 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -274,32 +274,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            10 / 79 achievements unlocked
+                                            5 / 88 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHAAX/xAArEAABAwMCBAYCAwAAAAAAAAABAgMRBAUhAAYHEjFBExQiUWFxFYEyQpH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUABP/EAB8RAAMBAAEEAwAAAAAAAAAAAAECAwARBBMxURKR0f/aAAwDAQACEQMRAD8Ag9mtq7nWJZCw0iRzuFPNE9gO5PYf6QATq77T4e7dZpEKqrG1WKyFLrqlalk4/qjlSOvafs6lmw/L0LD9yqYWsKKGGiSOdUZEjpjv203Ve/ru4wn8eU0rTaiCUoCgkE4MmZ9IzM5PTpqb1D1d/ih4A1GU5JMM45J1DPDjYagmqq7KumfC/Sw1UOKZcPtAz+sfvUc4oWqyWy4KFFSihdX/AAYa5hgYkpOANO1g4hPXF/y9yW2w7yFDb7fMgF2RygjIExII7gDQPHiopLtQW+4oINYUoW4U5AKgAoT9xEe2lSd+4A5ON5r22ZQPzc/Zuwrsqzh+829tqhWnxUB2oS24JEhacykwe8aAuW33PElFcw4GuxSQox1JiZ+9CbL4hV9peWbjVuvhun8GmUs+poyMhUHIAgSOhOR10w7q4o1N8pUJNSw2nkCXFAwpeOpA6ZzA9/YaOi1VzyPPrxtJpsgHr7ykzb1NVDaUKFQ+pUoVHpbzMgfHWfjW37XhTNLQpc5g2E49gBA0GrcaWGXWqYqUpZKi54Y9R+ZMxpcedW+6px1RUtWSTrolIkhmyLWABVN//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQcIBgT/xAAoEAABAwMEAgEFAQEAAAAAAAABAgMEBQYRABIhMQdBURMiYWJxFYH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQX/xAAbEQADAQEBAQEAAAAAAAAAAAABAgMAERIhBP/aAAwDAQACEQMRAD8AmW36RLr1XjU6npSqQ+rAKjhKQBkqUfQABJPwNUFaPje1oMHDlFmXDM6MlaihnOO0oBH2/wBydCPFdjxmqZSZIccXUquCl3kBDbH2qKQOycFGT+2PnVLtTqFQSiNJnQ4x4T96xnOQOfjsfzWff9BY+UPwbQjFUX3QdJ05XX41oU3eiPS3aHIIyl9KyprOOApJJ4z8Y/71pC1inSKTU5EGakJfYWUK2nIPwQfYI5B1YdTumTULRmVSs0JcihSXXVRZkaSwlbbIUUpCm1FKj0TkZPPWkFc1Mh3LRJtVgtvCTCaC0OnKUusJJwFJI4IAPP4/OlCjL8b6Mbojj0g4duvDN0UuTSac3LcLM+GsN8jjhITkH4KQnI9EZ1wX1cNQtryjOqUAF5mehTy2VDKdm3av+DAySOdKC1bg/wAR51L8YSob2PqNb9igR0pCvR9dEEHBGmPDvehVulyGK0CZLiiEiScZRkEILiedmRk9c+jjUeRm5YDoOS1WqBSeEZh+MLni1yoz2HKTT2qRGZcRDL6PqKZKVJAAJzjgknHes75ZuCnUOhVCnw1Ikz5rZjuOJHKdxyc+hhOcD9tA6jd9uUNqO1SC2plvfuZik717+TlZ4CQc4BJPJ640tLvuEXBOS4zERDjNghDSVbjk9qUfZOhOLPQMRxdXqs5FQetv/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Ressurector of the Hiragumo</div>
-                                                <div class="unlocked">15 Jul 2025</div>
+                                                <div>Latest Masterpiece</div>
+                                                <div class="unlocked">17 Jul 2025</div>
                                             </div>
-                                            <div class="description">Collected all fragments of the Hiragumo teakettle from Shigisan.</div>
+                                            <div class="description">Forged an item.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAwT/xAAsEAABAwMCBgECBwAAAAAAAAABAgMEBREhAEEGBxITMVEiUnEUMjM0YZGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIFAwT/xAAgEQACAgEDBQAAAAAAAAAAAAABAgADERITkQQhUdHw/9oADAMBAAIRAxEAPwCD0anLqcxLIcDSLjrcKeq19gNydh/ZABOrZR+DuE6NS0SqxSWpCSrtdc6Q44644fCUtt2Fz6AO+d9I/KimsuOyJ8tfSy1e5z8QBmwG5wBuSQB51SK7R3p7zT4muwZEQEvOFaezTYxGU3t+4Vi5BuM+ABeX1F7GzSDgCUqqUSoMRljCzXL3gGQ2mZIo6o7wcKRHakLU0pW6CAb3BvcbEWzqP80KVRKZUFCFFEF1f5GGuoYGLlJwBpvp3FkpdUYgcPRe1R47fbabVdKwAf1lL2N82t63OsefL8SrQKfUUEKmKShaynwCoAKF/va320tTvuKHJ5jPWu2zKB94nPy/4P4ghU5E6ZH/AAcVXS8grkpbX9SVgXuPO9rY1jxvVJ052HR4jaGqc2nuBts3StwZUpR3te+ckm+T4BcF8wp9JeWajLdfDccsxlLPyaNxkKscgCwuPBOR50w8Vc0ZNcioSZLDaehKXFA2UvHkgeM7D36GjZW4syR6hqdWQLnsOYCC3WA3FgElbhBU57P1H0B/mh/Hs8KZiwUudQbSnHoAWGuNXESWGXWoxUVLJUXO2Pkf5ub20uPOrfdU46oqWrJJ1000nOpphfeMaVM//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwUGCAEE/8QALBAAAgEDAwMEAQMFAAAAAAAAAQIEAwURAAYhEjFBBxMUUSIVFiNCYWJxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAABBAL/xAAbEQEBAQEBAAMAAAAAAAAAAAABAgMRABIhMf/aAAwDAQACEQMRAD8AzLt+0S79d41ut6q0iu2AWOFUAZLMfAABJP0NaC2j6b7WgwsVLLM3DM7GS7FKOcd1QEfj/vJ1XvT/AGrb7Pt23XWVXf5dywsh2P8AHRjlkJGAM9ihY/5Y7AnSzY7+sK4/Hn31RKpV68KjFt6BqVV1IKVXIz3UqPbz5OOdQbbNqQ8D1+WU5nys6vjrdfprYpvWke11bHIIytdXLUs44DKSeM/WP+9tAt4t0i03ORBmqFr0HKN0nIP0QfII5B1sDffqLY/2rEp3SL0XK4UQ9GiytTVF/qLsQcecAZzx20CbltcXcdknXKNSqrOt6E+4eFq0ULDBXwQFPOfH9+HhpU/V/nlvEWdg4+tfpzdbPuLZ9G13GqKEylijl6YdQQoAYA8FSFXI8EZ+teGLuKvsaZcLRIh1PldTSadaPUD01X2XC1FGFwVZuvkePGBov2ruD9ErVVrxhKh1se5S6+hgR2ZG8Hx2IIOCNJNt31YrrBkrdVHzKpKj5SjlOMI1QDlPPjk9jjRedQqHR850nWQXie5G3VJ3bu1oEK3pKt8tutY0mqUWMgUZHWucIuMA4yQB5Opj1Iutp2rtWXZrYtKtMk0jHdkz+BY9TZJ+gTjnP5ai7nvDbllFAWn2WRQQ9KIMVKmcd3x0hQc4BJPJ7caNN37hF/nLUoxEhxqYISkrdRye7MfJOsxnWlnTknirnOEHtPv/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Fashionista</div>
-                                                <div class="unlocked">13 Jul 2025</div>
+                                                <div>Spa Healer</div>
+                                                <div class="unlocked">16 Jul 2025</div>
                                             </div>
-                                            <div class="description">Changed your hair style or beard.</div>
+                                            <div class="description">Bathed in first hot spring.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+8 others...</div>
+                                            <div class="description ellipsis">+3 others...</div>
                                         </div>
                                     </div>
                                 </div>
