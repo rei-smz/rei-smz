@@ -19,9 +19,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.7293337019629527 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.725214029273681 329"/>
                                     <text x="60" y="50" dominant-baseline="central">41</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3617</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3621</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -37,18 +37,18 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.8479532163742687 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.8438661710037176 329"/>
                                     <text x="60" y="50" dominant-baseline="central">22</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1881</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1883</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.9330199764982374 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.928487690504103 329"/>
                                     <text x="60" y="50" dominant-baseline="central">5</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/851</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/853</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -153,7 +153,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            3.13k hours played
+                            3.14k hours played
                         </div>
                     </section>
                 </div>
@@ -257,7 +257,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        8 hours played
+                                        16 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -265,7 +265,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 18 Jul 2025
+                                        Last played on 19 Jul 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -274,32 +274,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            8 / 88 achievements unlocked
+                                            10 / 88 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQGCAX/xAAsEAABAwIFBAECBwAAAAAAAAABAgMEBREABhIhMQciQVEUEzIVYWJxcoGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQQAAgP/xAAaEQADAQEBAQAAAAAAAAAAAAABAgMRABIh/9oADAMBAAIRAxEAPwDMuX6RLr1XjU6npSqQ+qwKjZKQBcqUfAABJPoYf8p9PMpU+O2y/SJWYKi4DpecUUNqsNyhsEdo9m/j3bHJ6XZIjMUimS/quKqVWSpLpv2NMdqikDkm2i/8re7o7bNZyzqimVdiQotM1QsalMi4JQs8m1if9ANrBGtvZIU5nPSkJgM40nqJmvprQputEelu0OQRdD6VlTV7GwUkk7X9W/vjALWKdIpNTkQZqQl9hZQrSbg+iD5BG4ONh5yzbCVFjU+rRVuWU2w/JigL3UntskElYUSk3TxxuQbBeeMvs1SFU5TTaxPpiAQ6lV0OsJvYEewAd/yt+0hVl+MdHG81oPSDD1w6NZnpUqkU5qcstTYiw2QoAggJCbi/IKQLjwRfCFFpFTkoqFSq86LJpzb7sn4kdSyp0LUAlhaVJ0hH23VvpuSADvjKGVcwfgjzqX4wlQ3rfUa16FAjhSFeD44IINiMLOWuqkRUJxL8t1mX9YuNpkntvwNShsRyeAQTwbYztF0Ysg0HrTqlUCucI5VVlyRTYT8Vb6ERVspLbEhYc+MVfeWXgdRAubBQ7he+9jg26pVym5ey5MpUNwTJ8pn4rjx+4X3Oo8bJvt+rEbNXUmmh1hxEz5YTcLajk613A5VbSACDbcnc8bYJM35hGYJyXGYiIcZsEIaSrUbnlSj5JwIyo7guMHGlJzQqh0nv/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBQT/xAArEAABAwIFAwMEAwAAAAAAAAABAgMEBREABhIhQQcxURMiYRQVMjNicYH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAwQBAv/EABkRAAMBAQEAAAAAAAAAAAAAAAECAxEAEv/aAAwDAQACEQMRAD8AmXL9Il16rxqdT0pVIfVYFRslIAuVKPCQAST4GKAyh07ynDjKaXSJWYqgkArfWsobFwbFLYUPbcGxN72wN5KysxRsox6u2iTKqk9lRcbaTqCWParSlPcmxQT8Ejg4YnTJSm6pPqtOnJ/RpkPO2UACtR0gECwBvbxbud8Q1qX3ycA62U1nhcaTwnmzpvQJhLbFNcoUlX63kuFTZNjsUknxxb/e2ENWKdIpNTkQZqQl9hZQrSbg+CDyCNwcUN1DqU+vZmqgrUgRWaS0puKlhOlVnN9ahubmyU/A/vC8zBS2MyZfl1Nlp1M+A1f1b+15lBI3FtiADY/Hzt1F2XPR0HiyrTSgwjj3oxmmmSKVTUSnVMz4TgQLjbZISCD4KQm44Ivgq6lwaWuXFqdDgxI8xxClznHXy0y6CSklafx21FRVsbKJF7bTPlXMH2R51L8YSob1vUa16FAjspCuDx2IINiMNjLvVGE7T3WpclxuQXfUQ3K3QT2GpVrEDc9gQT2NsKrF0Yso0cydkogVjhHbENpdSr4eTApEqXDCgGn1B9go1JAUtxJuFbXSo6r2Pt3AxzdVa9TKBQJ1Ng+k/OmNfTrU2m2jUbm/AATew/ljPzB1AosJMdMF1lbKCoqjwkhBWVbkkgaQAb+SdRvxhU5vzCMwTkuMxEQ4zYIQ0lWo3PdSjyTjJyejgsMUcPRJzIU6x7//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>A Weapon's Mind</div>
-                                                <div class="unlocked">17 Jul 2025</div>
+                                                <div>Feather Buster</div>
+                                                <div class="unlocked">19 Jul 2025</div>
                                             </div>
-                                            <div class="description">Listened to the innermost thoughts of a Yokai Weapon.</div>
+                                            <div class="description">Drove back every Tatarimokke along the journey in "A Way Out".</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFBgj/xAAnEAACAQMDBAIDAQEAAAAAAAABAgMEBREABiEHEjFBEyJRYWJxFf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAD/xAAcEQADAQEBAAMAAAAAAAAAAAABAgMAERIhMUH/2gAMAwEAAhEDEQA/AOZdv2irv13prdb1VqidsAscKoAyWY+gACSfwNPu3dgbQstmnqa601d9kgQyS1krFIVUDLMqAj6jB85Oq3pXsemitdqqfkke5XcFZeQEjg+rFQPJOCmT/WPzpk3pcbfLtjd23LUCtZRUQFQ/YCq95UKvBySc48cDOoK3Lt5U/A18orNfTjpP1h29bC21fqCGqtVBJaFqYlmgqo3LRMCMjuUk8f5g/wC+NBt4t1RabnUUNaoWeByjdpyD+CD7BHIOuxNty2uHpttSxXVS1TcYJYaSSNQFLIzFkOTkYzxwc/rQXvrbsVypLpUJFItxtiZ+QN9JYFzgEeiADz+v3wY2Knyx6NrTV19qOH92x6L7ptdRa7alZI0NdRSKnI44UDIz6KgZHojOp7xV1BtHqdVtC8tfPPTYdG+QvGZmctnAPCsM8caAdq7g/wCJNKs9MKqjmx8kXf2MCPDI3o+vBBBwRpQtXUW2XK0VFLcp5o5ZJfkCTuVBxjtDOvleM+jk+DjS1iyMWUdBxSq1QKx4RtQyVl36e9PRCrpcYLlUswdvjMSBgS7cfUYUnxzkfnUDq1uG22SyXG30bJU19ahgkkAwV7jk59DC5wP61UXnfNjtkdPHQVHzxRly0MDs0jl8E5c5AAOcZJPJ8caLt37hG4K5ZIaRKOmjBCRK3ccnyzH2TpZyd3BYcUYvRJzIU9Y7/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBQgE/8QAKxAAAQMDAwMDAwUAAAAAAAAAAQIDBAUGEQASIQcxQRMiURRCcRVSYWKB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEAv/EABsRAAMBAQEBAQAAAAAAAAAAAAECAxEAErHB/9oADAMBAAIRAxEAPwDMtv0iXXqvGp1PSlUh9WAVHCUgDJUo+AACSfga0FaPTe1oMLDlFmXFM7GStRQznHdKAR7fzk6GrHt2l27a0Kt1F90SJ6cSD9jbBKTsA8k5bBP9scAE6POn3UB2PX1SZK3l0R1R3kMoIDQCg2oEEHI43Y/aeNQ1qX3wcA66M1mAXGk8N3X01oU3eiPTHaHIIyh5KyprODgKSSeM/GP97aQtYp0ik1ORBmpCX2FlCtpyD8EHyCOQdar6uXHS516UhH1KhTqeHUPhpIJfKk/Z7hkZwO3zpQXjQ41apk+dHbcE2ntBaXQfa6wM4BT4UADz/GPwQoy4GOg8WRaD0gwjr6xJ9Iumxk0afIMWakBgLUgKSkpCQFYJGUlKU7gDwRn41CkW83TLjbpcgF+Ypr00qYcUAdrOUrHPtKSBwcBWCOM6VVq3B+iPOpfjCVDex6jW/YoEdlIV4PjsQQcEaZ1G6hUibFcM9ZbnF0LQZHHAIKUqcT3TkZ8c+DjSpN5klRoPNKLRQCcYcUPRlOfW2ykNIcqbUV2S6+wlx1ACipa23Av2BJBBBGc9s51S9QalTLRtCRQ4L3106QyYzj5zuG5RUd3xhJOBnPu1zXHfdDjTG5Ud5El3CkuCPn1HArBwV42hIOcDJPJ7caVt33CLgnJcZiIhxmwQhpKtxye6lHyTrM5vRwWGL+83dJofJ1j87//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>An Electrifying Triumph</div>
-                                                <div class="unlocked">17 Jul 2025</div>
+                                                <div>Hideyoshi</div>
+                                                <div class="unlocked">19 Jul 2025</div>
                                             </div>
-                                            <div class="description">Defeated Imagawa Yoshimoto and was made a samurai.</div>
+                                            <div class="description">Decided to share a name with Tokichiro.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+6 others...</div>
+                                            <div class="description ellipsis">+8 others...</div>
                                         </div>
                                     </div>
                                 </div>
