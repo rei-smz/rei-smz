@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="904" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="889" class="">
     <defs>
         <style/>
     </defs>
@@ -257,7 +257,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        25 hours played
+                                        28 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -274,32 +274,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            19 / 88 achievements unlocked
+                                            24 / 88 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgEBQYD/8QALBAAAQMDAwIFAwUAAAAAAAAAAQIDBAUGEQASITFBBxMiUYEyYXEUFiNCsf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAQEAAwAAAAAAAAAAAAAAAAEAEUFR/9oADAMBAAIRAxEAPwBZ7cos24q1FpdMQFypCtqdxwlIxkqUeyQAST7DTIW14dWDbVAlTa3SajcbkVouvTPUlhIAypSUAjKRg9ST/msfZ1rs21YbVfbDr9WqMZZUM/xtsnadoHU/U2VH2UU9MnVl4cxZiP1T9SeMB+oxXI8l555biS06CFOeWSecJUAQCB8jWg7Rpdz+HFpV+C3JolOkUFb7QeYe3KUysFOU5SonGeOhHz00vdXp0mkVKRAmoCJDCyhQByD9we4I5B01t3VaeqzYFFMiI/RIjjcdyqsJ8txLKWyWkqyQPUUhOQOQlXvyIK9RWrrseTX1b26zTWGwvB9D7Scg8dinB5zyB99ENQtz4WVyl3NYTNGkT1UyrsDyGZJbCw0sJAQsA9UkJTkdinPtqPUKhVbanP28EtvpjBGS2nKpCdmS6VDlIJ3cfGNBezbmVbspzzYqZkJ4pLjJWUKBB4UhQ+lXUdwQSCDooNeIVCuOkzGautTMx1foTKztKeMJU4nkp79sE9DjTMu1v3HVa5OTRIbofpUvc0th1IDakf3cKiCQED1fnA6nU/xPnU6yLFVbkWWmp1WWx5EmSE45UdyiR0AwThPXkappl2WnbrcVNIDD6W21tONREkOOBeCcuEYCQQcDKidxzjA0Nb3uj9yyo/kwWoMOMgpaZQdxOeSpSuMk/jRZf//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwgEBQYJ/8QAKRAAAQMCBgICAgMBAAAAAAAAAQIDBAURAAYSITFBB1ETImFiFBVxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgX/xAAaEQADAQEBAQAAAAAAAAAAAAABAgMRABIE/9oADAMBAAIRAxEAPwCZcv0eXXqvGptPSlUh9VgVGyUAC5Uo9JABJPoYoPKPjfK0GDZyizMwzODJcJQze3KUAj6/7c40/ivI8Zql0mSHHF1Krgpe3AQ2x9VFIHJNii5/a3vD+7GqGU6gqZHSqfQlpvIYCbuxiBstuw3TtunGfa/o+VOZ2hGKzX243eCs1+NqFO1oj0t2hyCLpfQsqavbYKSSdr+rf94wC1inSKRU5EGakJfYWUK0m4Pog9gjcHHoZXafTsxZXW+ypp9h1rU260QQoH0RiRM95daqUSqSENOJqNLRf5Qr6OsJvYEdEAHf8W72PnuQcY6OV5K6+0GHuv8ADOaaXJpNORLcLM+GsN7jbZITcE9FITcdEXxSFNrLk8RhBVHbbIIfkOquppXCQlHdyeSQB+b4gHKuYP6R51L8YS4b1vka16FAjhSFdHrggg2Iws5a8pxFQnEvy3WZfzFxtEk/W/A1KGxHJ4BBPBtiL/O6sWUaOudkqgRzh55ksPUVx2VTHGIzFQ3lwHVlKEqJ3eCADoXblKdlEjAr5ZzDTqHQ6hT4ikSZ81sx3HAN06jc36Fk3sP2xiZq8k00OMLRM/lBFwpqOTrXcDlVtIAINtydzxtgjzhmEV+clxmImHGbBCGgrUbnlSj2ThRi7uGcYOKVnOZVDp7/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Seven Wonders</div>
-                                                <div class="unlocked">20 Jul 2025</div>
+                                                <div>A Kindred Light</div>
+                                                <div class="unlocked">21 Jul 2025</div>
                                             </div>
-                                            <div class="description">Defeated each of the Seven Spears in "Cherry Blossom Viewing in Daigo".</div>
+                                            <div class="description">Completed "A Song to Calm the Storm".</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwQFBggD/8QAKRAAAgEDAwMDBQEBAAAAAAAAAQIDBAURAAYhEjFBBxNRFCJhYnEVI//EABcBAAMBAAAAAAAAAAAAAAAAAAABBAL/xAAZEQADAQEBAAAAAAAAAAAAAAABAgMAERL/2gAMAwEAAhEDEQA/AOZdv2irv13prdb1VqidsAscKoAyWY+AACSfgaerDsTZtgsstVc7ZU3p4hmStnYxwL8lUBH2/wBydQPSrY9NFbLTUiSR7ldwVl5ASOD7WKgdycFMn9sfOkH1jNO92sO1Kc+3TMHnqCrYDv0FY1P85OPkjUFbe28qeAa+URNfbjpOwF72Ftm/Uiz2miNqEq9UVXDIXhPHGVJPGfjB/vbQbeLdUWm51FDWqFngco3Scg/BB8gjkHXVXp3DQJHeNpTQuytH9TDOpBRnCqrKPgkgn+g+dEu+9uxXKkulQkUi3G1pn3Q32SwLnAI8EAHn8fnhxqVbyx6MWmrr7UcO2Hozum11Fpt0dXIYa+jcJyOOFC5BPgqFyPBGdeXqBdo6Xd94a32sSRxtFXSVNQxkZZHwC4yeEU5wvYHJ8jQttXcH+JNKs9MKqjmx7kXX0MCOzI3g+OxBBwRpIot82K9Wqrp7x1fUTnpxUkr1ICCEaRe6Z58cnscay8mm5YDoOa1WqBSeEa22lcaSu9R46YJLNBJI0sk0czKY2i/6I7Ed1ywyO5IGpXqzuG3WSx3C30jJU3CtjNPJIo5XqOTnwMLnA/bVDc92bZsrwtaVgYKGV46QH3JA2Dgv2Cg5wMk8ntxo23fuEbgrlkhpEo6aMEJErdRye7MfJOkkmpQMRxRhqrOZUHrHf//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwUGCAL/xAAtEAABAwIFAgYABwAAAAAAAAABAgMEBREABhIhQQcxExQiUWFxFTIzQmKBof/EABYBAQEBAAAAAAAAAAAAAAAAAAIBBf/EABkRAAMBAQEAAAAAAAAAAAAAAAECAwAREv/aAAwDAQACEQMRAD8AzLl+kS69V41Op6UqkPqsCo2SkAXKlHgAAkn2GH7LHT7KNKgo83SZVelrUGxKdUW2Sog/kRcbbHuTiM6VZHjNUykyQ44upVcFLu4CG2PSopA7k2KLn+VvfDd1Vo8NvIi4gleSUl5lxBbPrdUDbQPu/wDmM+1/TeVPBtCMQi+3HThvNfTWhTdaI9LdoUgi6XkrKmr22Ckkna/tb++2AWsU6RSanIgzUhL7CyhWk3B9iDyCNwca46cz49ay3LyxWHFuzYzRVFWobqbtui/cqHffg/GBfPWXmanEqshttYqNLT+qlV0OspvsRwQAd/j52UasreWPRpeauvtBw64dGM00uRSqc3LcUzPhrDe422SE3BPBSE3HBF8T/Wary6pJoesLaaYKl+K0kqbV6gbHlKgkb32sQb8YzllXMH4I86l+MJUN63iNa9CgR2UhXB47EEGxGEqDn2i1qkSItZKi64pWlEo2Gk29JcT+3a5tY34NsGkWRy4HRkllogUnhGuGUa3TZkeRVm6e0W4nhhDkxYKy462sjTdaW0pQEEkkEm47807OGZmYVCqgUX3p09kREFekJ0KAWV2SkAbEgffG+OKxmfLVKhMw6SseSB1ORYR9TptsVLIIATdVtyohRvwMHmcsyLzHPQ8GBHYbTpbb1aj9k2FzsOMVJtRwSOLgziaEA9J3/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Mother and Child</div>
-                                                <div class="unlocked">20 Jul 2025</div>
+                                                <div>Full-fledged Samurai</div>
+                                                <div class="unlocked">21 Jul 2025</div>
                                             </div>
-                                            <div class="description">Reunited with your mother in the Interim.</div>
+                                            <div class="description">Reached level 100.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+17 others...</div>
+                                            <div class="description ellipsis">+22 others...</div>
                                         </div>
                                     </div>
                                 </div>
