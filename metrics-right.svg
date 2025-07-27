@@ -257,7 +257,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        36 hours played
+                                        42 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -265,7 +265,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 25 Jul 2025
+                                        Last played on 26 Jul 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -274,32 +274,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            38 / 88 achievements unlocked
+                                            40 / 88 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAABwUGCP/EACwQAAIBAwMDAgUFAQAAAAAAAAECAwQFEQYSIQAxQQdRExUiI3EUMkJSYoH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgT/xAAZEQADAQEBAAAAAAAAAAAAAAABAgMRABL/2gAMAwEAAhEDEQA/AMy6ftFXfrvTW63qrVE7YBY4VQBksx8AAEk+w60HpH030vQ0OJLLWairOxqXJSHOO6oCPp/OT1B+mejaSisltr3eeS4XRSJgg3LHB9LFQo5JIKZP+sdgT0y6ivNBSWK80NDWPTXCkgf71IQ7Q7sBGwDtIJUDnkZ6wWsXPlDgHb4yWa+nGk8Uar9NLHW7kgtc1inIyk6sWizjgMpJ4z7Y/wC9ugW8W6otNzqKGtULPA5RtpyD7EHyCOQetIWb9TWUNzh07RSVclbJunluFRIFok2gFnDMVLbycBfBA6PNaacFwt1xnkRvm1rjG+ZD9uaJc/x8EAHnPjH4qNCpxjo4tNaD0gwjrl6NaotlTaLdHVStBcKNwgJAxwoUMCfBULkeCM9uoo6muOm9XXqw3Klhr7bXzNKYnJMfwmYvnjlRk8/154PHRPpXUHySaVZ6YVVHNj4kW/YwI7MjeD47EEHBHSRb9cWK70M63YYrXf6TU8EqCCEaReSmRnHHPg46l5GbFgNB5Wq1QKThHXK2epS3jVDWXTtDJAlXVfHq55J90e1UCuCu39mFxng5wR7dRvqzqG3WSx3C30bJU19bGaeSQDldxyc+2Fzge7dV6v1RpawmA2ZIWCKyOlLkyyBuSDIeAoOcAknk9uOjnV+oRqCuWSGkSjpowQkStuOT3Zj5J6lJF6A5ijlqLOZUHWPf/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBQT/xAApEAABAwMDAwMFAQAAAAAAAAABAgMEBQYRACExBxJBEyJRFBVhYoFx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQIEBf/EABkRAAMBAQEAAAAAAAAAAAAAAAECAwAREv/aAAwDAQACEQMRAD8AmW36PLr1XjU2npSqQ+rAKjhKABkqUfCQAST8DVBWl05tWBCw7RZlwzODJcJQ1nHKUAj2/wC5OsjpbZEZilUqUHHF1Krgpe3AQ2x7VFIHJOCjJ/bHzpldTLtlW9PZtm0mpAqXo+tIejoSVJBT7EgqB+O5WBsAACNYK2Lt5Q8A3QjFZr6cdJy+urpvQZ/eiNTHaHIIyl5CyprONgpJJ2z8Y/vGkNWKdIpFTkQZqQl9hZQrtOQfgg+QRuDqo+nNyVa7FVa3rxU3Ikoil6M6Wg26SkgKSQAArYg8Z50rL5t1qpQ6pIQ04mo0xGfVCvY6ynOxHggA7/jHnZjVlPlj0YvJXX2g4cYdGropcqkU5uW4WZ8NYb3G2yQnIJ8FITkeCM61eqtsVit3I5cNDhfdI78Zllxlo4dZWj2kYyNlAg5/nONT5atwfZHnUvxhLhvY9Rrv7FAjhSFeD44IIOCNNm2+qUNcJxMiW6zL9UuNpkn254HcobEcngEE8HGorJ5sXQdB1zslECseEY56XWvPoU6dXK7HTS1OxPpGIT7vqO5wAt1R5SnbZPJz+BkV6sXBTqHQqhToikSahNbMdxwDdPccnPxhOcD9tcd09SKYlxhaJglBPcFNRye9eQOVY7QAc43J3PG2lJeFwivzkuMxEw4zYIQ0FdxyeVKPknUyjSlAzjgzWqTmVQ9O/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Remodeling Novice</div>
-                                                <div class="unlocked">24 Jul 2025</div>
+                                                <div>True Atonement</div>
+                                                <div class="unlocked">25 Jul 2025</div>
                                             </div>
-                                            <div class="description">Remodeled a piece of equipment.</div>
+                                            <div class="description">Attained 100% Penitence on a Stone of Penance.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFCAb/xAAsEAACAQMDAwMDBAMAAAAAAAABAgMEBREABhIhMUEHIlETFDIVFmJxYYGC/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEA//EABkRAAMBAQEAAAAAAAAAAAAAAAECAxEAEv/aAAwDAQACEQMRAD8AzLt+0Vd+u9NbreqtUTtgFjhVAGSzHwAAST8DWgto+m+1qGhxJZazcVZ2NS7FIc47qgI9v95Oqb0u2TTU9otdXymkuV2BWUDHGOD2sVA8nBTJ/ljsDpu2TWXKzXS9/r442mSQS29eK/UhgweTOoAbivtB/LBI+dQWuWJCHAOvjJZgNQaTw1uv0629WytT09vexVhXkkiyFo/+kJPTPxj/AH20EXi3VFpudRQ1qhZ4HKNxOQfgg+QR1B1sneTVn7gqKOrtqSWaV0oWuQmYLHM6BsFMflyKjJOByxnxoG3ztyO40dznEUi3K1oMyhvZLCuehHggA9f8Y/owqVOMdB4WmtF9oMPdh6M7otdTabdHVytBX0biMZHTooUMCfBULkeCM6sKff182pdrrSXidrrA0vJFaVjMYfyxEQxdRjvjAyB20A7V3B+iTSrPTCqo5sfUi58GBHZkbwfHYgg4I0q7c9TrfJTs9TM0VesheL7oAgdsAuB1XufGCexxpaSZGLAaDzJRaoFY4RzBGkm4LbFcLgs9ut9ZK1XPbK3MbGb3D6gVeoUgoRk5yucaM/VncNusljuFBSMlVcK2MwSSAdV5HJz4GFzgfy1D3X6lW0SwyJWfdheXOKnJ5vyA7tjiACDjqScnt00R7v3CNwVyyQ0iUdNGCEiVuRye7MfJOs4xo7hnGLzUpOcyqHT3/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQcIBAb/xAAqEAABAwMEAQMEAwEAAAAAAAABAgMEBQYRABIhQTEHE1EiYWJxFBVCUv/EABcBAAMBAAAAAAAAAAAAAAAAAAABBAL/xAAZEQADAQEBAAAAAAAAAAAAAAABAgMRABL/2gAMAwEAAhEDEQA/AJloFIl16rxqdT0pVIfVgFRwlIAyVKPQABJPwNUBanp1alOgpEikSq/MUQgSXVltkqI/wjcMj9kk6FeldjxmqXSZIccXUquCl3kbG2PpUUgeScFGT+WPnTRviszLWRHgO02PHjrke9ElKw6paU8qygHjCSoHJAx4+NQVsXbyhzOvlETX040nlrc/p3b1SU81Dp6qLKQcF1twrbSrHCVpJOOvGD+/GkRWKdIpNTkQZqQl9hZQracg/BB7BHIOq/gXLTLiqtUorjAcbmIVKblgbSpQG3aR9wgEY686SF9W61UolUkIacTUaWjPuhX0OsJzgEdEAHn7Y74cKsp8sdHF5K6+0GHuw9Gbppcik05EtxTM+GsN8jjhITkE9FITkdEZ0a9TWn7quVyUhMKNGiMIjoXPkFJfVt3KLaQfpSMjJAyTwetTvatwf0jzqX4wlw3se41v2KBHhSFdHrwQQcEaZEC+aHWID6KvkTFKIQZBwduQQgup52ZGTjHPRxrNItNyyjQeaWWiBScI7Rb38tVZpj9MLMqcs+/EeWrDbDYJCwv/AJAHwOc8c6MerFwU2h0KoU6GUSZ81sx1uJByjccnPxhOcD8tAKhdVsUIRRRw0pDLami3FyXFpVzguHgJBzgEkncfHGlvd9wivzkuMxEQ4zYIQ0lW45PlSj2ToSbUoCRijhqLOZAOse//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Trinket Triumph</div>
-                                                <div class="unlocked">24 Jul 2025</div>
+                                                <div>Bold Wrangler</div>
+                                                <div class="unlocked">25 Jul 2025</div>
                                             </div>
-                                            <div class="description">Used the Kodama Bazaar.</div>
+                                            <div class="description">Defeated Gozuki in "The Village of Cursed Blossoms".</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+36 others...</div>
+                                            <div class="description ellipsis">+38 others...</div>
                                         </div>
                                     </div>
                                 </div>
