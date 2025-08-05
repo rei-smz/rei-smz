@@ -257,7 +257,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        68 hours played
+                                        70 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -265,7 +265,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 3 Aug 2025
+                                        Last played on 4 Aug 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -274,32 +274,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            46 / 88 achievements unlocked
+                                            48 / 88 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwgGBAX/xAAqEAABAwIFAwMFAQAAAAAAAAABAgMFBBEABhIhMRNBUQcUIhUyYWJxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAACBAH/xAAbEQADAQEBAQEAAAAAAAAAAAABAgMAERIhMf/aAAwDAQACEQMRAD8AmXL8RVz0vTR0elKqh9VgVGyUgC5Uo9gACSfAw7QOS8kwNCBIRtVPVp266ypLZNuUNgj4/wBvjk9K8j0zUXFVIccVJS4KXTcaG2PiopA7mxRc/tbzhHrGaqB9VUBUglqKp+gpukLQ0vBaFBRUrm+oXH8xDW3slVPANfKQmoZx0nGc1kzKk8XGoykXDVdrpcSpWgbbakKJ2v4t/vGBSYjqiJk6ihrUhL7CyhWk3B8EHuCNwcW/O1+V8wzVbDezUqTQFoQ+G9llAuqx/G+Jwz3l1qSpJSoQ04mRi0X6oV8HWU3sCOxAB3/H52IWIPG/MWkHX2o4dsPRnNMXURMc3VuFmvo1hvcbbJCbg+CkJuOxF8b/AD7FVWdpCOqICvoqSspBoq01KrDTykjyDcjEpZVzB9EedS/TCqo3rdRrXoUCOFIV2Pbggg2IwnRPqFEyEe+3IuLbq1rukPkpuNrJU4nlPJ7bng2wlYsjFl+jNOy0QKx4RknJ/wBQj8wyBrab2x0Oqb6y9SUhSrCxFxsnm3O2Mh6sZhjoOCr4+lUipkK1s07jiR9uo3N/Fk3sP2x5U5nqDj+h7F5LyEAhTVMTrcuByv7QAb2uSdzxtgtzfmEZgrkuM0iKOmbBCGkq1G55Uo9ycLKLvQMw4u2lUnMqp6d//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAACAcEBQb/xAAqEAABAwIFBAEEAwAAAAAAAAABAgMEBREABhIhMQcTQVEiFBVhYiNxgf/EABcBAQEBAQAAAAAAAAAAAAAAAAEFAgP/xAAaEQADAQEBAQAAAAAAAAAAAAABAgMRABIE/9oADAMBAAIRAxEAPwAy5fo8uvVeNTaelKpD6rAqNkoAFypR8JABJPoYQeUem+VoMH+SizMwzODKcJQze3KUAjb+7nGo6V5HjNUykyQ44upVcFL24CG2PiopA5JsUXP7W94Ry8uR4c+NOi1NynPstdrSp0fTvD0ttVgSN9wQcT7/AEej5U4OoRiJr7cbx6zX02oU7WiPS3aHIIul9Cypq9tgpJJ2v6t/vGILWKdIpFTkQZqQl9hZQrSbg+iD5BG4OH3XERqxQFtT2YvecQvtGK+HQ+E7FTe1yB5vx7OCrnvLrVRiVR9DS01Glpv3Qr4OsJvsR7AB3/H52fnsQcY6OLzWi+0GHuv6M5ppcmk05Etwsz4aw3uNtkhNwT4KQm48EXwiIU0VFkyI7dOkOp0hH1V0ls8EA6Ta53B/O+ATlXMH2R51L8YS4b1u41r0KBHCkK8HxwQQbEYrOWuqcRUJxL8t1mX3S42iSfjfgalDYjk8Agng2xzvB1Yso0dqdUqgRzh5FKqUWnKnwpMSY1U3Wtb02TpW26PSXE7ADwgBNvXnEE6s5hp1DodQp8RSJM+a2Y7jgG6dRub+rJvYftjEzV1JpocYcRMEoJuFNRz813A5VbSAN7bk7njbEjzhmEV+clxmImHGbBCGgrUbnlSj5JwQg7OGcYOaVScyiHT3/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Onmyo Magic Master</div>
+                                                <div>Splitstaff Master</div>
                                                 <div class="unlocked">3 Aug 2025</div>
                                             </div>
-                                            <div class="description">Acquired mystic art for Onmyo Magic.</div>
+                                            <div class="description">Acquired mystic art for the splitstaff.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwgGBAX/xAAqEAABAwIFAwMFAQAAAAAAAAABAgMFBBEABhIhMRNBUQcUIhUyYWJxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAD/xAAdEQADAQEAAgMAAAAAAAAAAAABAgMAEQQSISIx/9oADAMBAAIRAxEAPwCZcvxFXPS9NHR6UqqH1WBUbJSALlSj2AAJJ8DDvl/JOS4OiCa6Mq5+uVt11ag2TblDaSPj/b44/SvI9M1GRNSHHFyUuCl3cBDbHxUUgck2KLn9recb6glJOJz27FMLdrIiklW+s/SUZWUU7ib/ADfTe2lZSnTa9gd7Yhrb3JCngGvlITUM46Tj6dyTlabW4zHUTkJWAXCwpWgG22pCjx/Lf7xgSmI6oiZOooa1IS+wsoVpNwfBB7gjcHF7T7WXp2ir23Wm25Jl/wBm42pIDqXLXG3gjcHgjEs56y61JUkpUIacTIxiL9UK+DrCb2BHYgA7/j87CFiDxvza01dfdBw7YejOaYuoiY5urcLNfRrDYuNtkhNwfBSE3HYi+H9meiJiHrKarDanmUFS6Yu9PqHSSncdjfnziEsq5g+iPOpfphVUb1uo1r0KBHCkK7HtwQQbEYTYr1BiJKOfaknFoqlrukVBtcbWSpxPKe/bc8G2Et47KxZfkZkstECMeHI0Tlury9OksycUKlunUG6hthTvVS6SVF1Wu2tvdAuPtIsDc4yfqvmCPg4GvjqVaKqRrWvbuupG6So3N+wsm9h+2PKm88wUcaf2DqHkICgpqmJ1r1Acr+0AG9rknc8bYLs35hGYK5LjNIijpmwQhpKtRueVKPcnAlF3cMw+uNKpOZVT1jv/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAcFBv/EACkQAAIBAwMEAQUAAwAAAAAAAAECAwQFEQYSIQAHMUFRExUiYWIjcYH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgX/xAAaEQADAQEBAQAAAAAAAAAAAAABAgMAERIE/9oADAMBAAIRAxEAPwAy6ftFXfrvTW63qrVE7YBY4VQBksx9AAEk/A6QWku3GlaCh/zWar1BV+DVSMY4c/KpuH459knrI7V6HporZaakSSPcruCsvICRwfixUDyTgpk/1j56RtbClBRxSWk08ht8oeaAjcJsKQYxjw/II/1zjrPt9Ho+VPBtCMVmvtx047ag7fadvELNQW6WyyNnZOrMY8jIwyEnjI9Y/wC9Qu8W6otNzqKGtULPA5RtpyD8EH2COQenHptKDUvbiJKhkas+nKXTbtZSZHJXnzjOOOOjZrvTsVypLpUJFItxtaZ+qG/CWBc4BHogA8/r98MLFT5Y9GLTV19oOHdh2Y1Ta6i1W5KuQw19E4QZHHChcgn0VC5HojPVdfWdvp/uFEiSUtSWURybkXcjDdI6c8HLMSfIwM446GmldQfZJpVnphVUc2PqRb9jAjwyN6PrwQQcEdVKx9ybZV0MqV8hWqMhZFqwCpHGFZwOV4z659HHUWgysWA6DlKrVAjHhGsOj75SxWu10FUlDFUR0srpJE/OWwMSDGdwAYE+DgY5OBNO7OobdY7HcLfSMlTcK2M08kijldxyc+hhc4H9dZmote2SlnhmpZYpyAVeOlXDuCBwXA2hVxwMk8nxx1K9X6hGoK5ZIaRKOmjBCRK245PlmPsnolF3oGYcXU9UnMqp6d//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Ninjutsu Master</div>
-                                                <div class="unlocked">2 Aug 2025</div>
+                                                <div>Help Wanted</div>
+                                                <div class="unlocked">3 Aug 2025</div>
                                             </div>
-                                            <div class="description">Acquired mystic art for Ninjutsu.</div>
+                                            <div class="description">Summoned an Acolyte from a Benevolent Grave 10 times.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+44 others...</div>
+                                            <div class="description ellipsis">+46 others...</div>
                                         </div>
                                     </div>
                                 </div>
