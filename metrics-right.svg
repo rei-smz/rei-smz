@@ -257,7 +257,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        13 hours played
+                                        15 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -265,7 +265,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 9 Oct 2025
+                                        Last played on 10 Oct 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -274,32 +274,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            17 / 43 achievements unlocked
+                                            21 / 43 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUHAAT/xAAsEAACAgEDAwEHBQEAAAAAAAABAgMEEQUSIQAGMUETFBVRYXGBBxYiIzJi/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMABP/EACYRAAECBAUEAwAAAAAAAAAAAAECMQADEUEEEiFRYXGRodFSgbH/2gAMAwEAAhEDEQA/AMyoaNCbGkxXkaePUCdkunWI5JI/QK8bf9fkD5+OrFrtX4VqM9W0hhniLACOaO1JgHG7Yh3AZ4yVwPUjpDpDfplp+jV7M89V5lR0VZq0skkdgH/BYnx4O8cDHnHHU/uTt7t945dZ7X1Ot72ZFQWqTlGSbILAQytuJTaTlfCt9h1ic99I7ZNcNRaRVZbRtiOdu7wT7TqafrTSNblkpRLI8QBQM8jKu44ZmWNcAc7mHOMZ6jdz1qlyaH4RW9gApWIWLKSSOSeZDt4HGMKM4+Z6u69dmmk0wactq/3LEiixIgXZLI6s2cAAMCqjGRuIyDnjrPL7w3Z4bUntaZmQugXMi7gSML4KjIOPOPn0Sor6fsLIjCgleswsPjyedha+sIPgItRwQWmvySRwLKYa0S4iV1BRmZyAS3HA8D65A9Gm6z+y9VNbR9REs7KUF5ISzRBvJRTyH4wPqcg+D0TrapNBXlYuHeRlKqwzhlBAf8AkD79dpiRm0lu7IVhT+wjfsaQj0Ujkc+vQIDWHmKInLqVJpnULslLfXrrCXUE1NNUWxp8epU5rX85XuqsbMQxO/IAABzu8cE4yc5NWehRVKmi6mi6fd92RamoudiKTlnEgOfLOx3cHGAPQdELOrC3aWOlXkq0nkUCGOQs5+7H16QJqkvcFq5NHDE6wxQtYCxgcKVQTL6qQdm7HB3McdIAqOrRFUyVKTSVUqupu3s+I/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUDBP/EACwQAAEDAgUDAgYDAAAAAAAAAAECAwQFIQAGERIxBxNBImEUQlFxgaEIFTL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwL/xAAfEQACAgICAwEAAAAAAAAAAAABAgADESESwTFBkfD/2gAMAwEAAhEDEQA/AC3KmWWJTyEuJDiiNwB+g5I/WFjK2SmmlGQUIbTrZSsRablyRUKG1Mpavh6hCWHIZI1BXwUKHlKh6T9xhn6UyqTmmlOPmMqNWIauxPiSE+uK6PlAPy86K8+bjG7LCTgSqIAOT+IX59ytTotCqs1Lu1bLC3EvovsIHNgT+sF0Cjf32S49U1SXkatvgWuPP5BBwxfyxrsSh5biUGK0yqfVDvWNCC20k/6AAuSq3Pg2OD7pDTpaMr1tMtKjEW6lpkHgqSkhVvynArkHBgyBgWUaiLkmXIj5eIhoS9IbAPb5Ktp1IHudMUOqnYoUWB1TynUY8Oc2lLcuO4oBNQbVbZp5cGmn2HgpGA6jdRzlyO4oIUqQPUhoq03H3OlsQPiq51CrQXNS2pC1b0gntxmCeTY2B0uBc4HUh8yget6+B0RvPR6nclda6t9Q5U95KRKkr3kA7kRWEjQAgDgAgDyoke+H2XDay9llimoCNIrGiym25ZGqiffi+B6v5eh5Lhw52WqxJdfjNlUkMrDbhc5DgIvt8FOvFx5GM3eoc2oU1EOqSFuzO1vedW2Em+h5T6VA62Nj9cCoS2TA2BazWPe/30z/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Successor of the Breath</div>
-                                                <div class="unlocked">8 Oct 2025</div>
+                                                <div>Resonant Power</div>
+                                                <div class="unlocked">10 Oct 2025</div>
                                             </div>
-                                            <div class="description">Defeat the Successor of the Breath in the Ridge of Frozen Souls</div>
+                                            <div class="description">Execute a Communal Gift</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgGBf/EADAQAAIBAwIEAggHAAAAAAAAAAECAwQFEQAGITFBURITBxQVIlJhgaEkNXKywdHw/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQBAwX/xAAfEQACAgICAwEAAAAAAAAAAAABAgADETEE8BIhMkH/2gAMAwEAAhEDEQA/AO6Lb7Jjt0Hg/E1j5OekY4sc98DWO29vCiaSezbqkPs+rkaSnlC5akYscH9Py0p7/eJKWatjb8uppoT0w7qoH7jqbL1CpWOTxAck8PU9iP8AddC7YYCafDpFlDswzqKSSXHZt3YROrxuA4I96OdDyI+RGkLctgSutUVbDEsM8kYcpnOCQDj76GNmbjhntVNZ7vKXoY3HlT4y9KxPL5p3H1GqJ22PW7ZWBwH8FQ6hieajgPtqwMGERvoanAOjqYr0gzGETW2pp0it1wCyGojJLlhyPHhwPTroN3paK6zSeXUmNqeVQ0E8fFXXrg6cmqqbdFi9Qq3VZ0GYnbmrD++WsVTQpPDUWO9U7VVExPiCjMlO/wAadj376hkz7/YdHJaoeB+TC20gxiMs/u1ClgB8Snl9Rx1Xe2cQ2bzSwRZCHHHjxRTnUwbu2xX7OqEp6kedQuwnpKpF4OM4Ix0ODxGmmn3THDsm1JGVeaSljDN1Bxj+NBXsxvmkNSrL3uJ//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUHA//EAC8QAAEDAwMCAwYHAAAAAAAAAAECAwQFBhEAEiExQRQyMwcVIlFhgQgTI0JSYnH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAgEF/8QAKREAAQEHAgQHAAAAAAAAAAAAAQIAAwQREjFBIVFSYXGhEyJCkbHB4f/aAAwDAQACEQMRAD8Ay92seOoNIocxjZ4WQ6Y0nthzlTaj/oBHbrq/atqeOUsrC0QXMx35CRnYlXBIHcjg/bQtFwRW6c4stbmCrAKz5yD2GmNAmVKhsWzULqqExm2alUDIiUdoFTzkVKgS44eMNg7cA5KueMHOoUutRHpHf8brIdIhXKVkVPXg0HCN5ZUcbXvJhd81ar0m6naRJcalTaXBVQS6glYUgbkkpx3IURznH211okdDNvMrVkzQdoSBwhOM7if5c4x2xq9fr1LTdVVVKgMUkxJCk7fVkuK3YwnnBV3O3AGckknJnW4/Ordv1NTciE3PXKS8XXfOpoJKD8I6HcAecZOfrrQazy+WIBMICpXmeGwvTPJ56zGx1uxhc1in1BSfBtSpLSiiKw8nLTas+otP7j8knjuc9Dar96SKzUmHLrnSpUhiMljcylI2BKeEpB4GTyTg8knGtK/EpbdMs32lUu4o9PCYVTSVuto4QX0q+NX0JCknHc5OsUpkf35cjs2XsbZdeU+pKuihuztH07ahSAdMDuyw8Somt2R4itJ4Qm18fQlktuNhv3JK9odPrc2ksuVxx9tUyE6ykKcQtBUmSgYwD+WQCtHOW+RzoncLsB29LsTSYyoqlzn3HVBICPUOGxjgEDnH9j8tIxcEctyZHvSeKq42W0SUSNi20kYISR5RjI4wfljQiVV1wG3m6K2hth0fqslW4OHGCVZzu3DqFdeoKTzpAlStVezAp87hTKHNR4pEdZT7GQPRv//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Io's Memories</div>
-                                                <div class="unlocked">7 Oct 2025</div>
+                                                <div>Successor of the Claw</div>
+                                                <div class="unlocked">10 Oct 2025</div>
                                             </div>
-                                            <div class="description">View Io's memory echoes</div>
+                                            <div class="description">Defeat the Successor of the Claw in the City of Falling Flame</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+15 others...</div>
+                                            <div class="description ellipsis">+19 others...</div>
                                         </div>
                                     </div>
                                 </div>
