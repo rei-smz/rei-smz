@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="889" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="882" class="">
     <defs>
         <style/>
     </defs>
@@ -19,36 +19,36 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.639773340528872 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.634869307464295 329"/>
                                     <text x="60" y="50" dominant-baseline="central">41</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3706</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3711</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.089502762430939 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.083885209713024 329"/>
                                     <text x="60" y="50" dominant-baseline="central">14</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/905</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/906</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.7560975609756095 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.750259067357513 329"/>
                                     <text x="60" y="50" dominant-baseline="central">22</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1927</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1930</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.8821510297482837 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.88 329"/>
                                     <text x="60" y="50" dominant-baseline="central">5</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/874</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/875</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -241,9 +241,9 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,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" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABAUBBgcDAgj/xAAvEAACAQQABQIEBQUAAAAAAAABAgMABAURBhIhMUETIhQjUWEHMlJxgRUzQkNi/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMAAQQF/8QAHREAAwACAwEBAAAAAAAAAAAAAAECAxESITFRE//aAAwDAQACEQMRAD8A1C/wZjX1bE80Q7+arFwZxcEKNKO41V+wmRtb23Z7ZwwHdd0DmLC2nRpLYgT/AKa6W+xJWYsykdqyhSkK99+T5pStzILgNCvqBjvQqbi1uXyDo0e4EGyo+tD8SZBeGsC+RlT05pNpCreSKe/Ahp61lLI7XUylgPB1r7UbdZGzjxkYQM6sdbBrNOGo7l8Sbtg0kdy5LPvet9at9kizYdI4yCqsSSfFTgDNDRILaezb0ZQG+hofHiS3Zld1I/ak8srxtyRhlHbdE2s5jI59mnRNIKuLF/B+ceyvBGZPa1ahr1rT4iPZ2N7FYLjrpC35CritU4RzaS4820kwDa11rK50yCa4v5Icm8DkhSduftWXfiVxLdZaOKBhsQyEa8cvitVzmP8AUn9SM7dSSfuK+f8Aii6ZruW2j/uJIxY/z2q7rSBOvCvGN3hWZll54CeUq3VR/FbRhOI8TfY1EhfldPmugPVt1i2KxsyRLPdQK1uf9euu/rRGLWKyvmn1IXPZVbQUU3FX0VT+Gu5LNYqGaOVZwx7cu+1LbjiO1ExaM62OmzWc5e+WaVOeB4VB3snvSubLRiYtG/OEHYVtnPEiai68NmvuF9MLjFTpNCveMD3GhrTH3lrLuSKSGPuVPc13sPxSw903p3Fq1s57HYApsvHuEuWBWRC46bbtXLWVGrZEE73JaNZfcRy6Peq7xXgMJw6GvLdk/qjDm1L7hv8AavGa48hN5DDavBLzvrcS61VA4x4hW/u2aQsdDXehrITQgvsteTzO8UyiPmOwO38VNgZrl/UF5Go8gjrVee8aO4LKRy7/AC6ppA+wLiJDzfpFVjt0VS2MsrHLuP1JOaQn2j60JLZW8MjRs3QKH2PJPih7ctGTd38h5t/LUnzRdsnqROJOsh9wrXjlN9isj4IlJ4IBzxzRuR9Ruh7rMCZChj1906VX3llI92gPsKY2N5ZQR/Oidz9jXMx9mpzoaYu4tLp0jeT4WbfRnrpl8MqFmbL20hI6Kqnde4L7G88ckcHzPv1oHLZBGuC8YQvrooFbFh2gN6AY4xA6qqhjvuRumt/cr8MkZ5VOv8RqkV5eSyFfZyGmFhZmaRHmba0MNEtcThLbyiATXDH/AJBomwyc7uqBBo+0HVccvKJrxYebSR+KnHGRZ9xrtU60Dtp9A1H6I//Z" alt="" />
                             <div class="about">
-                                <div class="name">CODE VEIN</div>
+                                <div class="name">ELDEN RING NIGHTREIGN</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -257,7 +257,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        15 hours played
+                                        164 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -265,7 +265,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 10 Oct 2025
+                                        Last played on 11 Oct 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -274,32 +274,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            21 / 43 achievements unlocked
+                                            37 / 37 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUDBP/EACwQAAEDAgUDAgYDAAAAAAAAAAECAwQFIQAGERIxBxNBImEUQlFxgaEIFTL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwL/xAAfEQACAgICAwEAAAAAAAAAAAABAgADESESwTFBkfD/2gAMAwEAAhEDEQA/AC3KmWWJTyEuJDiiNwB+g5I/WFjK2SmmlGQUIbTrZSsRablyRUKG1Mpavh6hCWHIZI1BXwUKHlKh6T9xhn6UyqTmmlOPmMqNWIauxPiSE+uK6PlAPy86K8+bjG7LCTgSqIAOT+IX59ytTotCqs1Lu1bLC3EvovsIHNgT+sF0Cjf32S49U1SXkatvgWuPP5BBwxfyxrsSh5biUGK0yqfVDvWNCC20k/6AAuSq3Pg2OD7pDTpaMr1tMtKjEW6lpkHgqSkhVvynArkHBgyBgWUaiLkmXIj5eIhoS9IbAPb5Ktp1IHudMUOqnYoUWB1TynUY8Oc2lLcuO4oBNQbVbZp5cGmn2HgpGA6jdRzlyO4oIUqQPUhoq03H3OlsQPiq51CrQXNS2pC1b0gntxmCeTY2B0uBc4HUh8yget6+B0RvPR6nclda6t9Q5U95KRKkr3kA7kRWEjQAgDgAgDyoke+H2XDay9llimoCNIrGiym25ZGqiffi+B6v5eh5Lhw52WqxJdfjNlUkMrDbhc5DgIvt8FOvFx5GM3eoc2oU1EOqSFuzO1vedW2Em+h5T6VA62Nj9cCoS2TA2BazWPe/30z/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwcEBggB/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDAAQRBRIhBhNBBzFRoTJxIkJh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABkRAAMBAQEAAAAAAAAAAAAAAAECEQADMf/aAAwDAQACEQMRAD8AypRUhZnVcctiuRKCSW/FRnHz/lTnlcSCbA7QwAoHAPx9VoiAinSTor2kql/4kqpI3DkVHq7+nkktx1lYlhCbSSUpcRyrmIxnhwR8YP7zjFVG/iSG5kWM5QMwHOfYkU35wUYVqZgIGJ2qCS3GB5q1aP03ql+kYjs76DcRmR7dyhx5yB9UPoLW7PQ9Tea9hWRXAXcVyVHnB9xT3svUzRBbAQ3sfA/F9uTx+6lWKm4IuU91pl100k8tvp19e3WD25mtn7cTH+/I5I8D55pdOCGKsCCPBrR2pepWldklrhNxHsjrn6zSU6512317Uo7i3gSLYuwlRjcPGT7k1XRy5vmSib//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Resonant Power</div>
-                                                <div class="unlocked">10 Oct 2025</div>
+                                                <div>Nightreign</div>
+                                                <div class="unlocked">25 Aug 2025</div>
                                             </div>
-                                            <div class="description">Execute a Communal Gift</div>
+                                            <div class="description">Earned all achievements</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUHA//EAC8QAAEDAwMCAwYHAAAAAAAAAAECAwQFBhEAEiExQRQyMwcVIlFhgQgTI0JSYnH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAgEF/8QAKREAAQEHAgQHAAAAAAAAAAAAAQIAAwQREjFBIVFSYXGhEyJCkbHB4f/aAAwDAQACEQMRAD8Ay92seOoNIocxjZ4WQ6Y0nthzlTaj/oBHbrq/atqeOUsrC0QXMx35CRnYlXBIHcjg/bQtFwRW6c4stbmCrAKz5yD2GmNAmVKhsWzULqqExm2alUDIiUdoFTzkVKgS44eMNg7cA5KueMHOoUutRHpHf8brIdIhXKVkVPXg0HCN5ZUcbXvJhd81ar0m6naRJcalTaXBVQS6glYUgbkkpx3IURznH211okdDNvMrVkzQdoSBwhOM7if5c4x2xq9fr1LTdVVVKgMUkxJCk7fVkuK3YwnnBV3O3AGckknJnW4/Ordv1NTciE3PXKS8XXfOpoJKD8I6HcAecZOfrrQazy+WIBMICpXmeGwvTPJ56zGx1uxhc1in1BSfBtSpLSiiKw8nLTas+otP7j8knjuc9Dar96SKzUmHLrnSpUhiMljcylI2BKeEpB4GTyTg8knGtK/EpbdMs32lUu4o9PCYVTSVuto4QX0q+NX0JCknHc5OsUpkf35cjs2XsbZdeU+pKuihuztH07ahSAdMDuyw8Somt2R4itJ4Qm18fQlktuNhv3JK9odPrc2ksuVxx9tUyE6ykKcQtBUmSgYwD+WQCtHOW+RzoncLsB29LsTSYyoqlzn3HVBICPUOGxjgEDnH9j8tIxcEctyZHvSeKq42W0SUSNi20kYISR5RjI4wfljQiVV1wG3m6K2hth0fqslW4OHGCVZzu3DqFdeoKTzpAlStVezAp87hTKHNR4pEdZT7GQPRv//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUIAv/EACsQAAEDAwMCBAcBAAAAAAAAAAECAwQFESEABhITMQdBUWEiJFNxkbHBof/EABcBAQEBAQAAAAAAAAAAAAAAAAECAwT/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADERIh/9oADAMBAAIRAxEAPwDMtHpT9VW+iMCpTTfUIAvcXA/urb+zJcZPGRcSAtSC0BkEAH+678OJpg1KQrHBaAld/S4P7GtC7Pixa5vZMhxDTTj0pt1KCbhItke4x/uueyxlbJsiAjTM30zaNQqMpxhhB6iG1OZSchOTqTUqa/TnS3JTxV5a0427ColZrIbjtLR80GvVPIWBzn20HeIZZU1CWSTIW38SPp5OL/bOiu0s2ResASPtZoqfSodr3I9baXNszpketxZyozpQhxBN2za18nRDtOuCjzAp5PNk4Ke2PY9xpYjb92+Y+HZ6TbI6ydW9fR9kK/IkysvVSNOkym4z/BalXIaOMkfjRpuOQqRIutRNj2PlpOnb6o/RPBc9SrYvJSP0NGG5KsmrTeshvgm1rd8eWTk6Vr5OwZ+p/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Successor of the Claw</div>
-                                                <div class="unlocked">10 Oct 2025</div>
+                                                <div>Nightlord Slayer</div>
+                                                <div class="unlocked">25 Aug 2025</div>
                                             </div>
-                                            <div class="description">Defeat the Successor of the Claw in the City of Falling Flame</div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+19 others...</div>
+                                            <div class="description ellipsis">+35 others...</div>
                                         </div>
                                     </div>
                                 </div>
