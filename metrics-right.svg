@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="889" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="882" class="">
     <defs>
         <style/>
     </defs>
@@ -241,15 +241,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAABgcIAAQFAwn/xAA3EAABAwMCBAQFAQYHAAAAAAABAgMEAAUGBxESEyExCBRBUSIyYXGRgRYXI1Oh0TZCQ2KCorH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AlcfLv2+tEGGYjdcrmLZtrJ5DY3fkEfA0n3NeunmIzc1yiJaIAI5ihzHCNw2Pc0588w7OY8FvGsMxefFszI/iPt7cb6/8xKgd+E+goA7k4Dg6kpkuPZDdkdUvwnuBttXsQfathrxA5VbRybCY0aN6B5oLIFD37mNQySf2Xnk9+qR/ete5aSZ1boTsudjkxqMyniW4oDZI/NAUr8Q+azAGbm7DejnultgJJ/WvA3PAs1Xy7kzKs13d6G4PvbsJP1SKBMbwvI8lDpsNnlTuV0WWgDw12f3Q5/v/AIWuB/4j+9Bo5vgtyxYIfWUzLS6dmJ7I/hufahMdQfXanxp9jmoVpKrRfsVuM/HpY5b7TgBLafdBJ+E0A6vYDMwTIzHebUIb4DjKtuwPXgP1FBS3hHwtFnxV++SmeC4S1qZIUOqUpPSn/v16K+9Rvr3ml8wjNl4/YZfl4bTKHdkjuVCqQ0XmTbhp/b5VycLklwlSlH1HSgOT27/qaCdbJBi6UZM+FbcEQncfcVmtV2kWTTC/zoTnLltRyWlex3FQxddTcpu1ok22dcC7EkJ4HEkdx+aClvBvF4cOlzD3ddUkn7GqGB27bke9JXwiR+TpCw4RspyW8f036U1spjSJePzmIRUmStshspOx3oOod9xt1H37UkfEtbLfkeLzobqALpbmvMxjuN3FHpwik/M0a1McmvKRdLhwLWVAh9z1P3rlYpY7/jWtFnx7JZj77sxaUr5ril7pI3Hcmg1/FWoTNTnbg18Ud2O0hKh7gdasPS+J5PBLO0RsTHQv8pFRzNaXnelUSTHPNvNskrdm7dwyeiTVt4sjgxi0JA6CGyP+goFr4o5Xl9LZyN9i6kp+9QXVq+MWUY+BwWwejz6kn8CopoPoJ4cInk9Kbc323Wpf52pgXu7Q7Ha5NxujyY8KOjjddV2SKHtJYnk9P7Q0RsSyle33Aob8Sszy2k15bH+u0UUG4NbdPiN/2khg/UmkLfMkt+VeJ+z3uyyUyrZG5O7yflHCkg/+1OAA2+tNfTiOnHsCyDJpyeDzbJjW5Z9XknrtQDWl2YrwzI2pS0c+3vkImR/5iPaqSzvWi+4/Gi3KyRGpuOvtpDUltA4UK26oP1Hao8V23J6n0owwTPJ2MFyK4hM20PjheiujiG3qUb9En60BBq3q9cNR7ZAhTWEtJiuqdBSANyRtSuNNp/GMKy9KpmN3lqxyFDfyE1RWtavXh27CuK9pFmJXvbbPIuDP81hPT+poGdaPE3Nt1phQk2zcR2ktb/D12G1DWp+ukzOMcVaXIfJQondXTrQo3pFm/Gky7BLiNb9XXUjhH9a7EXB8Wx5PnMtyCNM4OqrbFJQ8r6b0Atp9hcrK7gVLPl7TH+KXMV8jKPc10NUsrjXZ9izWNPKsVu+FpHotwDZS/wBazNdQ3rtBTZ7FHFssTXytJADix/vUPmoDAHv0oP/Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABAUBBgcDAgj/xAAvEAACAQQABQIEBQUAAAAAAAABAgMABAURBhIhMUETIhQjUWEHMlJxgRUzQkNi/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMAAQQF/8QAHREAAwACAwEBAAAAAAAAAAAAAAECAxESITFRE//aAAwDAQACEQMRAD8A1C/wZjX1bE80Q7+arFwZxcEKNKO41V+wmRtb23Z7ZwwHdd0DmLC2nRpLYgT/AKa6W+xJWYsykdqyhSkK99+T5pStzILgNCvqBjvQqbi1uXyDo0e4EGyo+tD8SZBeGsC+RlT05pNpCreSKe/Ahp61lLI7XUylgPB1r7UbdZGzjxkYQM6sdbBrNOGo7l8Sbtg0kdy5LPvet9at9kizYdI4yCqsSSfFTgDNDRILaezb0ZQG+hofHiS3Zld1I/ak8srxtyRhlHbdE2s5jI59mnRNIKuLF/B+ceyvBGZPa1ahr1rT4iPZ2N7FYLjrpC35CritU4RzaS4820kwDa11rK50yCa4v5Icm8DkhSduftWXfiVxLdZaOKBhsQyEa8cvitVzmP8AUn9SM7dSSfuK+f8Aii6ZruW2j/uJIxY/z2q7rSBOvCvGN3hWZll54CeUq3VR/FbRhOI8TfY1EhfldPmugPVt1i2KxsyRLPdQK1uf9euu/rRGLWKyvmn1IXPZVbQUU3FX0VT+Gu5LNYqGaOVZwx7cu+1LbjiO1ExaM62OmzWc5e+WaVOeB4VB3snvSubLRiYtG/OEHYVtnPEiai68NmvuF9MLjFTpNCveMD3GhrTH3lrLuSKSGPuVPc13sPxSw903p3Fq1s57HYApsvHuEuWBWRC46bbtXLWVGrZEE73JaNZfcRy6Peq7xXgMJw6GvLdk/qjDm1L7hv8AavGa48hN5DDavBLzvrcS61VA4x4hW/u2aQsdDXehrITQgvsteTzO8UyiPmOwO38VNgZrl/UF5Go8gjrVee8aO4LKRy7/AC6ppA+wLiJDzfpFVjt0VS2MsrHLuP1JOaQn2j60JLZW8MjRs3QKH2PJPih7ctGTd38h5t/LUnzRdsnqROJOsh9wrXjlN9isj4IlJ4IBzxzRuR9Ruh7rMCZChj1906VX3llI92gPsKY2N5ZQR/Oidz9jXMx9mpzoaYu4tLp0jeT4WbfRnrpl8MqFmbL20hI6Kqnde4L7G88ckcHzPv1oHLZBGuC8YQvrooFbFh2gN6AY4xA6qqhjvuRumt/cr8MkZ5VOv8RqkV5eSyFfZyGmFhZmaRHmba0MNEtcThLbyiATXDH/AJBomwyc7uqBBo+0HVccvKJrxYebSR+KnHGRZ9xrtU60Dtp9A1H6I//Z" alt="" />
                             <div class="about">
-                                <div class="name">Transport Fever 2</div>
+                                <div class="name">ELDEN RING NIGHTREIGN</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Casual, Indie, Simulation, Strategy
+                                        Action, RPG
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -257,7 +257,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        18 hours played
+                                        227 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -265,7 +265,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 30 Nov 2025
+                                        Last played on 1 Dec 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -274,32 +274,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            3 / 61 achievements unlocked
+                                            37 / 37 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAABAYHBQMI/8QAKhAAAgIBAgQFBQEBAAAAAAAAAQIDBAUAERIhQXEGEzFRYRQiMoGRQuL/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAgED/8QAHREAAgIDAAMAAAAAAAAAAAAAAREAAhIhMUGx4f/aAAwDAQACEQMRAD8ARMBh4bsJkneOtUhQPPYdeIIDyAAHNmJ5BR6/ABOirFnDQsY8fi63AOXm3m82RvkqCEXsAdvc65yOY8Fjakf4mL6p9v8ATvuB/EAA7n3084HxYcHn7MD4+G/QsrEaMHDGixqwHDsSO4O59RpJuegP5BCo4SpPXejMdpKlVCetf7CP1uQdD5ClCldmVUZWUlHA239+XQjqNegLHj/HCrnKeY8GwpLRrLLNWZ4iWVnVCCVXkQHB1B5RvQtxDfhEZlXfoV/5JH6GrpbIcmXriU4M9kvicfYX8Vi+mfboybkf1SD+jpmyuMmjlwZoeblKscO7zVgu+3mlwuxPI7HrqaYnNLURklRZq0qhZYWbbiA9CD0YdD07bjWgIsda++jmakQPPyr+8Lr8cQBRu4I7DRbZAjaAfh99KIACOuyoq96748tZa3jLNHD3+NbptvGFjhePhk3IPTYEddwNIMcrDCXbUhPBwCshP+nbYn+KCT3HvoSGrhqu0uYz9R0HP6fGA2JX+OIgInck7ex1m57xAl8JHXiSrSgUpXrIxYIDzJLHmzn1LH1+AANdaHEKRarLn//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwcEBggB/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDAAQRBRIhBhNBBzFRoTJxIkJh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABkRAAMBAQEAAAAAAAAAAAAAAAECEQADMf/aAAwDAQACEQMRAD8AypRUhZnVcctiuRKCSW/FRnHz/lTnlcSCbA7QwAoHAPx9VoiAinSTor2kql/4kqpI3DkVHq7+nkktx1lYlhCbSSUpcRyrmIxnhwR8YP7zjFVG/iSG5kWM5QMwHOfYkU35wUYVqZgIGJ2qCS3GB5q1aP03ql+kYjs76DcRmR7dyhx5yB9UPoLW7PQ9Tea9hWRXAXcVyVHnB9xT3svUzRBbAQ3sfA/F9uTx+6lWKm4IuU91pl100k8tvp19e3WD25mtn7cTH+/I5I8D55pdOCGKsCCPBrR2pepWldklrhNxHsjrn6zSU6512317Uo7i3gSLYuwlRjcPGT7k1XRy5vmSib//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Old timer</div>
-                                                <div class="unlocked">31 Oct 2025</div>
+                                                <div>Nightreign</div>
+                                                <div class="unlocked">25 Aug 2025</div>
                                             </div>
-                                            <div class="description">Complete the first era of the campaign.</div>
+                                            <div class="description">Earned all achievements</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcCBAYI/8QAMBAAAgEDAgUBBQkBAAAAAAAAAQIDBAURACESEzFhcQYiM0FRkRQjQkNSYoGCoaL/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQT/xAAeEQACAgICAwAAAAAAAAAAAAABAgADETFB8AQSIf/aAAwDAQACEQMRAD8Awdgs8VdHxStFT0sKCSoqJFyI1JwNhuzE7BRuT8hki7NJaYiUttphdBtzq772R+/CCEXwM+TqEM4pbRaYeWsqYFbLG3SViSFB7BVx/Y631u9FWu+R1FRRzvS1DVHMRccUHAwVlXgGDgg42Oeuls8laiC+jMqUs+QmxFxItLL7ygp07wLyyP4yQfpqpX0cKUzMiqyMpKOBjOOoI+BHxGnjT2X0PDT193uNmdIKCFopKSMzOskwOWII2ONlBzjBJPTSarJVqYbgyQxwRyK06Qx5Kx434VzvjhJHfTV2CwZAhvWUOCZTNTzLRb6hTkRp9mk/awJZfqp/5Oi0Hq+tobdRR26skhkVWjqFVRllUngIJH6WI2+Q1g7VelpFKuqzU8ihJoWOA46jcdCDuCOn+aIBLdVe1QXimhB/KuBMTr24gCredvGs7KpwrjIByO94jgMPqbnRVoulya/2+6UN4o4fRcVOqyqzRgInDllKnuoGT7Q4jgHSSuNRTut9rqNDHbzJJFSqdveMSqjwmT220KhpbRTjm3f1DRtGN+RbQamZ+wJARfJJx8jobfvUEdeqQ0sK0lBApWCmVuLhz1Zm/E7fFvAAAAGrSgr5zLYffYn/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUIAv/EACsQAAEDAwMCBAcBAAAAAAAAAAECAwQFESEABhITMQdBUWEiJFNxkbHBof/EABcBAQEBAQAAAAAAAAAAAAAAAAECAwT/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADERIh/9oADAMBAAIRAxEAPwDMtHpT9VW+iMCpTTfUIAvcXA/urb+zJcZPGRcSAtSC0BkEAH+678OJpg1KQrHBaAld/S4P7GtC7Pixa5vZMhxDTTj0pt1KCbhItke4x/uueyxlbJsiAjTM30zaNQqMpxhhB6iG1OZSchOTqTUqa/TnS3JTxV5a0427ColZrIbjtLR80GvVPIWBzn20HeIZZU1CWSTIW38SPp5OL/bOiu0s2ResASPtZoqfSodr3I9baXNszpketxZyozpQhxBN2za18nRDtOuCjzAp5PNk4Ke2PY9xpYjb92+Y+HZ6TbI6ydW9fR9kK/IkysvVSNOkym4z/BalXIaOMkfjRpuOQqRIutRNj2PlpOnb6o/RPBc9SrYvJSP0NGG5KsmrTeshvgm1rd8eWTk6Vr5OwZ+p/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Exemplary student</div>
-                                                <div class="unlocked">1 Oct 2025</div>
+                                                <div>Nightlord Slayer</div>
+                                                <div class="unlocked">25 Aug 2025</div>
                                             </div>
-                                            <div class="description">Earn all medals in one of the campaign missions.</div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+1 other...</div>
+                                            <div class="description ellipsis">+35 others...</div>
                                         </div>
                                     </div>
                                 </div>
