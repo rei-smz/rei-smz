@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="889" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="882" class="">
     <defs>
         <style/>
     </defs>
@@ -257,7 +257,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        21 hours played
+                                        25 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -265,7 +265,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 22 Dec 2025
+                                        Last played on 23 Dec 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -274,32 +274,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            8 / 46 achievements unlocked
+                                            11 / 46 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwf/xAAqEAABAwMDAgYCAwAAAAAAAAABAgMEBQYRABIhMUETFBYiUXEHYSNSgf/EABkBAAEFAAAAAAAAAAAAAAAAAAIBAwQFBv/EACQRAAICAgEDBAMAAAAAAAAAAAECAxEABCESQWETMVGhwfDx/9oADAMBAAIRAxEAPwDo3qxgXl6cnOlhxxhtyO8WgsEq3e05+uNEVuPWqNThMlVqC54SVFbAhNoU6c+0JOeOCCep+NA+jJc++m7jZqHlG4jLSNiUblOABRI/XXGk1xR59SNZlVZlfnorQdSUkBppAXwlI7hSTuCu5BHbWQmaOPWQooLFRZNcceR783WW8Q65T1mgD+f3nE0+5b7eqz8ajRY8hlIaUCYCTtCwMc555OM6oajVvIGNSKnMiy7hcaU48IrKUJYwM4yD17ay/FNbei1QRVbnosxZZDSV+5CwkqCgn+uMgn61J0u3at6mn11+nrh08rfSN+RyoHAGeTqWgg2dR3KBSo+BZNYjq8GwFuwT9XlLXrlm25fTsiEhL2+C02G3CdqSSrnA76VXPXa1OpTiqqCZk6SiNHY8PbsSBuVt+9yR/p1Ruw6ZJuoVGqPBTDbaEllHJKk56n45GhL5mLr13xJcdLaadT4qvL5cSFLfXwSR2CU9P2NH6+s+rFrkiyFBJ7VjCxSpO0tGgSR5wn8XRn6NXK/TFsMyKtGjtvMut4IIWnpuPOzJTqaduGvVS4PBrEtwoQh7+ADagEJPbVNatSapVzM1GQnLaaQITpS6klbiXsoGPgIzz9DQtzNQJlwOVaFMWsrbc3NugAglOAE466GGaCLWliZgTTAHjn+4bJNJMklHtef/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABQIEBgf/xAAwEAABAwMDAgMFCQAAAAAAAAABAgMEBQYRACExByISFHEIE0GBkRUkMkJRYWKx8P/EABkBAAEFAAAAAAAAAAAAAAAAAAMAAQIEBf/EACMRAAEEAQQCAwEAAAAAAAAAAAECAwQRIQASMUEFURSBkaH/2gAMAwEAAhEDEQA/AJdUuptwW1ejVKgOQ/JqitOZejhxQUoq+JPGw1lax1iu2IGQhdM8S8k5hJ4Hz1Q9olJHUBCsEAwGcH5r0a1bMi40U0RysSFpA8CUeIqyAdh+umgwIfxozz6AQpOcXZr91pqWaczVZ5rvSyOtN4KjFxxVL3WEI+4p3PJPPw2+utHbF93JWavDRVmYaYE+K8/HW3GS252jYkg5Hp+40ddNm0a2Ke2mWJL8hmLlSw6FRw4pWAEpG6lDYkntPdnAxk+wnY8u7G3RKMiQIro7nFKKQEcAHgem2oeSiR0suFuOEgJOdvsYojiu/wCaFCfTI2uNLsX0eaOdKdbqg2xfbbHlvMuKiMYQRtyv131Yse74tCokpBaZXVHj7payvxKQBncqOwTj8SRjfAyQdI9T7cerk2XPpbjX2gpMdhILqUYbSlfvO48HJSNc9TYVxphqjhMMIUsLKRMRjYf76aP4xcEQ2LfShYAuyL49HitDlsqlb2nUEo+899ddfumbgmN3BHeEiR7wOfnQoHBHH9caM6d016BeLaipC2/LPgLSf4fEahTrEr8WUhzEJKeFYlo3HprU2xQKhT6yJU0x0soZdHa+lRKinAAA0psuNGjPMsyUrC0nsE2RXvnVplu9gDe3bQFDFa//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Impervious</div>
-                                                <div class="unlocked">21 Dec 2025</div>
+                                                <div>Jaxxed</div>
+                                                <div class="unlocked">22 Dec 2025</div>
                                             </div>
-                                            <div class="description">Have 99 or more Block during combat.</div>
+                                            <div class="description">Have 50 or more Strength during combat.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAQf/xAAsEAABAwMDAgYABwAAAAAAAAABAgMEBRESAAYhMUEHExQyUXEWImFigZGh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwIABP/EACYRAAICAQMDAwUAAAAAAAAAAAEDAhEEABIhEzFRFEFhcYGRocH/2gAMAwEAAhEDEQA/AH++d5bhpu52aXSvIcQ4y2W0LjhxalEngHr2GrSHCrb1PY9VVIzM0ICn8YSFISfgc3Px96NoVDhydwvVBbAMwNttl5XVLYB4R8Ek2J66N3IqrQoqhRIcZRHvdj5rcbI/aD+awubKsCR36a5kDGZhojFMdwiN0jEEk183qukzrMm2Z22aiCRXPfivsPH6UT4lWFNeTBnNOTwm7Xmw0BCyOxHa/wB6inp+5o0plivwYaW5DK1Nvx2wMVAXsSD1Hxqsa3FUmiIkqFUJ8t5kLhx5AQ4t668M1KbxDdiQVJIslJJubW0y36yhiCppsYoNlWyyAOJPB/nR5EUKxWiSYEkGjtAINcVXjTKTKb4SW2QqrF2Dzzd8/wA0REMSQzMju1CNFUpCULD2HQi/RfB/rWs/h9unph5R4zsMJjhULlTiD7SgIvllieLGxCvvXAPFnbNW3Duz11K9MtgRm2lZyEoIWnK/B+xozwid3PsCqPuPU6DOiSEYLQJqA4jm90H9e472Gtgsw44axJoEtosEjUP9WHkiFxB9gbrXQfRU2oV/BpVRbiIUS41UnHS/NcB4CmfcGUdQkgBRINrDmk3k2wztllMVgREJKgGsQ2CSCbhNzb67axHiSw64PUUSQ2nuoTGVf5lqG3vUJFd3vBnRnQiiQ4TqUtLcSFF5YIJxBN+wvocp2PJLAGR7GgCPxp1TZvgAs9xZII+p5Gv/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAgf/xAAuEAABAwMDAgQEBwAAAAAAAAABAgMEBQYRABIxByEUIkFRCBNxkRUWI4Gi4fH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAYAAf/EACQRAAIBAwMDBQAAAAAAAAAAAAECAwAEETFBURIUIROhsfDx/9oADAMBAAIRAxEAPwBxfF6XDBvNujUqXAbZVGacHiYwWUEk7lKV7ADU/et59QrclLTI/Ckxsb2pAhJUlaeffsdWiabAm9WVKlLaWtMJlSml8pSAvBHvkq/joL4izT/ylGSmQ2mSZAZbSFgDb6g/QgahIbwG9htigIKjORuRnNFuJZFkYK2ADzXMofWS7XpamVSKStvOEHwASpQ+mdPbSv8Ar1eqrbFTTBLDrDqgpmKG1hSU5BznjnUnaVCK2alIiA+IMV1+OTjytoPcn2JyOxxyM8YNnbFMX4K2qrI2B+ZCecKUZAA2c4Pfv7cZ41QXkVoqOiqA2OBwT8D2ocF+/crHqOoDX74oPq5cjtA6ktutIVsTBZ3OMrLbyUkqztVweOFAjnjOpO+Ku+1cVHYkticGkMy1vSCSXicnsBgAepAHdRJ9tVHVu1qpcd1qmUxMVccxW2VFchKCFDdkYP10mrdlVipPxZITEQ7tPzW/EpUGvKhISk+o8pP761nJarHEWYBunB8jOn7TEts/qO4TfitUq6kWk4uQuMZaZMJ6GlGQnapWDuP3wdH9P7oNVaolGEZaFUmnSG1yFubvmZ27QB6D/NK7gs2szm46Y6If6e4q3SkjJJ/rTPp9a0+hSn5FQVGQVtrGG30r7BPlHb1JJ+2u33YyK8isC+DjzwCBvwTSdnazI6MyHUbHmv/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Purity</div>
-                                                <div class="unlocked">20 Dec 2025</div>
+                                                <div>The Collector</div>
+                                                <div class="unlocked">22 Dec 2025</div>
                                             </div>
-                                            <div class="description">Have 3 or fewer cards in hand, draw, and discard pile combined.</div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+6 others...</div>
+                                            <div class="description ellipsis">+9 others...</div>
                                         </div>
                                     </div>
                                 </div>
