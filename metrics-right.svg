@@ -19,36 +19,36 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.5478695423461337 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.5441408302679975 329"/>
                                     <text x="60" y="50" dominant-baseline="central">41</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3802</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3806</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.001085776330076 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.995661605206074 329"/>
                                     <text x="60" y="50" dominant-baseline="central">14</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/921</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/922</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.651866801210898 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.648185483870968 329"/>
                                     <text x="60" y="50" dominant-baseline="central">22</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1982</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1984</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.8298109010011123 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.827777777777778 329"/>
                                     <text x="60" y="50" dominant-baseline="central">5</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/899</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/900</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -239,7 +239,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        56 hours played
+                                        60 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -247,7 +247,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 10 Jan 2026
+                                        Last played on 11 Jan 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -256,32 +256,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            21 / 46 achievements unlocked
+                                            23 / 46 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABgADBQcBAgT/xAAtEAACAQIFAgUEAgMAAAAAAAABAgMEEQAFBgchElETFDFBYQgVIjIkcYGRof/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAX/xAAjEQACAQMDBAMAAAAAAAAAAAABAgMABBEFIUESMWGRFNHw/9oADAMBAAIRAxEAPwDTc7cnUuQ68XKssqssFGlNBN4NXGgeTqv1BZG4vxwCR/nA/Wa/3PhqHCjLvLAr0TS5ekd1YXUkH049u4P94HvqMWM7lXkNh5Cn4twf2w/RV1RqCOhoMs8MI3TFGw4SPrkCAt25IBPcjGbp1lFNDGzqDsM5Hj97qm5kaNjg8mncw3Z3HomVZftsiMCQ8NBG4P8ArnEht5uhqHU+onoM3NE8JppXVoaVYmDKAQbjnvxgi1btlPkNJXZhR5hB5ejTxJqeQEOVAUHpIv8AkGJ4IHFsV7t9TpFu1XrFYIKad7DuY1J/6ThmoWVsls8kajseBQtJ3eVVJpfUlM8e5VomI/gU/Hz+WOXTGnq2l01NW1klVDXOwMFOLflGSBZha9y3SbHsOLkYtLU2nI8z3Enz2eGjqI0pYIoDLKCEkXq6z0e55FiePX39M5tlUlUIpIEpY5Vuros1kYeoYA3sfYj4BxXo0tglohuJVDYAxkbbc/VUSW8jMxwe+1QNbryebTcy5nNXPKI2hZGZmRrL63PYD9T7jABtDVPU6/mnf95aWpY/H4+mLTzbIlzCiCSwUrvJL4s6tUDpkPSFuf7A5+ecDekdCzad1i+YxywfbvKzKqGcM6uwsFHcfOEanPa/FYRzKxOdgd/FO6ZXmViuwxxj3X//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcFBP/EACoQAAIBAgUDAwQDAAAAAAAAAAECAwQRAAUGITESE1EiQXEHFGFiUpHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIGBf/EACIRAAEDAwQDAQAAAAAAAAAAAAEAAhEDBCESEzFhFCJBUf/aAAwDAQACEQMRAD8AWak1vNlOro8uqp+3QmCNmk7CSGMtf1G46iBbgHjzhjpsVeYRvLVVEbRMoMTJTqoYXPqBB3B/oixxJPqTpuozPWbVVPVmnc0kCAMnWjKOu9xcG98OPp5CNN5SKWStlqmY9bM3pRf1RbnpXk/km+JKkKTqTZgmB86Ww6ckYyUr1BT1VPRq9DJ1Sgk9P2yuWAU7W5xOK3VSVGerltNNHVdML9yeOFEXuAXspG5tuCQbE+ecKdf5nHX6bqaGGWaOqqbQ05hbpJkbgE/xIv1fqDiP5Pp+vyvWFI8k/epliqI2IhMYJ7d1Zbk3U8fIwXspbbsAGD8H4jSnUJnkK4zZUmYszgL3ECrv4sbjBLOKmmy8zKtQC0MjRPG3pdSBfj3BG98bU+pZsunVaWmhqUkNpm7wRoiBsbHZhfmxuNucCtdGbUM0dRTUUMdd2zE0xqFVSp46gLliDx4BPnE1ZMuad0dzDD2EdLw4wMSt7LwtXDHVll6blI73YsxG4UD39vi/5x15vp9cty5qsKkUjM7si73Z19RJ8/5g5o55MpczV8aMyiy0/wBwrwhtruvuG2+MamdZ7W5xVWk7VNQQxuwXuhnnktYCw2Ci5Pkkew5e48l90G0z6DkyM9JgH6wYxK//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Amethyst</div>
-                                                <div class="unlocked">31 Dec 2025</div>
+                                                <div>Plague</div>
+                                                <div class="unlocked">11 Jan 2026</div>
                                             </div>
-                                            <div class="description">Beat the game with the Watcher.</div>
+                                            <div class="description">Defeat 3 enemies with Poison in a single combat.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUEAgf/xAApEAABAwMDAwMFAQAAAAAAAAABAgMEBREhAAYSBzFRExRBFSJCYZFi/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQMEAgX/xAAiEQACAgIABgMAAAAAAAAAAAABAgMEABETISIxUWEUI0H/2gAMAwEAAhEDEQA/AKW/N57wi73boW2Go8nlFbeCHIwcULlV1FRIskWGTrFJ3X1JgQ/czKZTpLKRdZhtNuKSB3JSlROj/W+sT4W7nYUOQphh+EwXfSASpzK8FXe36vbUXptMqVPLlRbmFECO8lC2VLFnFH7iMnGPnXPqU4npxyOinpHcczy846WVxKyqx7nF87e++l0durUpuHJgKSVLT9OBcat3JF7lP7Ax8+dYNodRa5X64IdSEBTS2HFhTMYNqCki4Nwe3fXpqtxwozlPaqBsuWsBp4N8mmlk/akrvcHIGPPjQ7cW24NH6nQZVMZbisTIckrjoTZKVoSLqFsAK5DHkHzpU8Vf48n1AHR0dDxm4Xk4q9R1sZP6iUVqt9UXkvoW61HpbDhaQriVq5LAF/GsNSixmI8CCGvSitOhz2zjYBQRfIV+Qyfk5OltYhvObzn1RpxoodhMRkj1ADySVFV/6NTpdOeko9Jwp4G5KkupJSfIF++hUuwpXjRnA0o/fWR2q9hrLFVJXfg4L+sO0arOuwg57McQpBvwcurNwMA/APxfT5G4IFcEJDDS2ZsNUnmy66FOs3QQB/pCk2IIwLAaOxduSboMlTFkOhyweSeVr9/7fXNLoEyNuxuovmP7ZuI63yDySoqIIAA75vo27NaSFwHG9HXP1ldeOcTLtDoHvo5//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABQACBAb/xAAqEAACAgEDAwMEAgMAAAAAAAABAgMEEQUGIQAHEhMiMRRBYXFRgpHC4f/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwX/xAAhEQACAgEDBQEAAAAAAAAAAAABAgMEABExQRITISJRYf/aAAwDAQACEQMRAD8Aa3JvbcNfurT25RaBtPemk7KawkkJIfjyPwMgfodcRv7uxu7QdzWaFVqAiRUIWWivkpKjIznnnOD0p3IElTufFegVJZTUrRCKQkK/uY4OOfnHPQO99GoTalWW3SDXVjWSSSORvH3Et6YB4IH8k5P6x1i0q8TxI7oD6jgb5oSShWI15zNL3c34mmrcY6SYyAxUUBlVPwTz9+t2w+5+4Ny7jWhqooGF4JXDQVhGwZVyDkHq+l1446/1V2GZ6Ib0ZDXcAqxX25B4H4BwDgj7dTaWnacN1C1UgRJFhmAkT2+Q8fuoOM9UtQQLA57YB0OwHzJ17HVIo1O/3EO7M4TuRTXywBDVJ/Hvb/nRO67E+n6heXUUMk9iCKWnNHx6QVh/qCD/AFPxz0t3S27quubs+v0oVmjWCJMtYVCHUkng/sdGrom4but1rmuQ1bUAJSWBbahVRlwfEA8EcH845z0lK1CldFZwCAOfzDNWd2YhTvgst7UNWuXrIR2lZPXtJDkeaqPJpCBxjjyP8E56e2jbSLWK9aCSnbhs1pJ0nC4miIQgxtzxzn2nIPDDo5Ns7iWtpvpx1IL1NnAuR3FDMjYIBH3wfLn7hsH46S2Xta5pV/629JXiZIpEMSSh/PyBwRj4xxx/jo2rUDQuquCSDziwV5RKrFSPOf/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Emerald</div>
-                                                <div class="unlocked">26 Dec 2025</div>
+                                                <div>Ninja</div>
+                                                <div class="unlocked">11 Jan 2026</div>
                                             </div>
-                                            <div class="description">Beat the game with the Silent.</div>
+                                            <div class="description">Play 10 Shivs in a single turn.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+19 others...</div>
+                                            <div class="description ellipsis">+21 others...</div>
                                         </div>
                                     </div>
                                 </div>
